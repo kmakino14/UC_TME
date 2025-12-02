@@ -1,5 +1,5 @@
 #####################################################
-# 03. DOGMA Seurat object construction
+# DOGMA Seurat object construction
 #####################################################
 
 setwd(path_to_wd)
