@@ -403,7 +403,7 @@ dev.off()
 #################################################################################################
 ## Visualization of differential ligand-target links
 #################################################################################################
-source("/home/k-makino/MultiNicheNet_plot_source.R")
+source("~/MultiNicheNet_plot_source.R")
 
 group_oi = "post"
 receiver_oi = "CD4_Tconv"
