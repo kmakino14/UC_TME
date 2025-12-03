@@ -118,7 +118,7 @@ write.table_n_2(deg, "Gene", paste0("Reproducibility/Results/Differential/UC_DOG
 
 ###################################
 # ADT
-counts = fread_n("Reproducibility/Data/UC_DOGMA_ADT_counts.txt") %>% t() %>% as.matrix()
+counts = fread_n("Reproducibility/Data/DOGMA/UC_DOGMA_ADT_counts.txt") %>% t() %>% as.matrix()
 CD4[['ADT']] = CreateAssayObject(counts = counts[,colnames(CD4)])
 CD4 <- NormalizeData(CD4, normalization.method = "CLR", margin = 2)
 
