@@ -119,7 +119,7 @@ dev.off()
 #################################################
 ct_keep <- c("B_naive","B_memory","Atypical_B","GC_B","Plasma")
 
-metadata_IM <- fread_n("Reproducibility/Data/UC_DOGMA_metadata.txt") %>% 
+metadata_IM <- fread_n("Reproducibility/Data/DOGMA/UC_DOGMA_metadata.txt") %>% 
   mutate(celltype = if_else(celltype == "Normal", "Normal", celltype)) %>%
   dplyr::filter(!lineage %in% c("MSC","Endothelial","Epithelial")) %>%
   dplyr::select(celltype, sample, STAGE)
