@@ -87,7 +87,7 @@ df_cor = cor(df_norm2 %>% as.matrix() %>% t() ,method='spearman')
 row.order = c('Epithelial', rownames(df_norm2[pheatmap_result$tree_row$order,]))
 clustered_data <- df_norm[row.order,]
 
-col_anno_df = fread_n("Reproducibility/Data/TableS1_Clinical_metadata_DOGMA.txt") %>% as.data.frame() %>%
+col_anno_df = fread_n("Reproducibility/Data/UC_DOGMA_FACS_and_clinical_info.txt") %>% as.data.frame() %>%
               dplyr::select(., c("status","main_histology"))
 col_anno_df$status = factor(col_anno_df$status, levels = c("Early_L","Early_H","Early_UTUC","Advanced_BC","Advanced_UTUC","post_BCG"))
 col_anno_df$main_histology = factor(col_anno_df$main_histology,levels = c("UC","Small_cell","Inverted_papilloma","No_malignancy"))
