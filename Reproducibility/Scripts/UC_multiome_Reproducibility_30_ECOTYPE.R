@@ -48,7 +48,7 @@ Orange_Purple = rev(brewer.pal(11, "PuOr"))
 # Fig.6A  ECOTYPE DOGMA-seq data
 #################################################
 metadata = fread_n("Reproducibility/Data/UC_DOGMA_metadata.txt")
-FACS_prop = fread_n("Reproducibility/Data/UC_DOGMA_FACS_data.txt")
+FACS_prop = fread_n("Reproducibility/Data/UC_DOGMA_FACS_and_clinical_info.txt")
 
 df_immune = dplyr::filter(metadata, lineage %in% c('B','CD4_T','CD8_T_NK_ILC','Myeloid'))
 df_non_immune = dplyr::filter(metadata, !lineage %in% c('B','CD4_T','CD8_T_NK_ILC','Myeloid'))
