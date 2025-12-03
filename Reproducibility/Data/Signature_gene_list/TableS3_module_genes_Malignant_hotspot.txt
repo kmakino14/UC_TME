@@ -1,0 +1,2140 @@
+Gene	Meta program	Annotation
+XIST	1	Luminal
+FXYD5	1	Luminal
+TSIX	1	Luminal
+KRT13	1	Luminal
+DHRS2	1	Luminal
+FRMD6	1	Luminal
+S100A2	1	Luminal
+AC133530.1	1	Luminal
+IVL	1	Luminal
+CTSE	1	Luminal
+SLIT3	1	Luminal
+INPP4B	1	Luminal
+KRT7	1	Luminal
+IGFBP5	1	Luminal
+ABCA6	1	Luminal
+RAB11FIP1	1	Luminal
+CD96	1	Luminal
+SLC24A3	1	Luminal
+S100A4	1	Luminal
+RHOBTB3	1	Luminal
+GABRE	1	Luminal
+ALDH1A2	1	Luminal
+HS3ST5	1	Luminal
+LY6D	1	Luminal
+CEP44	1	Luminal
+CTSD	1	Luminal
+COBLL1	1	Luminal
+CSTB	1	Luminal
+REN	1	Luminal
+PLCE1	1	Luminal
+HMOX1	1	Luminal
+CYP3A5	1	Luminal
+HPGD	1	Luminal
+STK24	1	Luminal
+GAREM1	1	Luminal
+ABCA9	1	Luminal
+S100A14	1	Luminal
+KCTD16	1	Luminal
+ACER2	1	Luminal
+LIPH	1	Luminal
+MYO3B	1	Luminal
+S100A9	1	Luminal
+GPR39	1	Luminal
+FAM107B	1	Luminal
+ANXA10	1	Luminal
+IL1RAPL2	1	Luminal
+PTGS2	1	Luminal
+SEMA3C	1	Luminal
+UPK1B	1	Luminal
+EDARADD	1	Luminal
+GPCPD1	1	Luminal
+SYTL2	1	Luminal
+KCND2	1	Luminal
+FRMD3	1	Luminal
+IGFBP3	1	Luminal
+ATP10B	1	Luminal
+MARK1	1	Luminal
+RHPN2	1	Luminal
+SGPP2	1	Luminal
+PPARG	1	Luminal
+GJB2	1	Luminal
+DACH2	1	Luminal
+S100A8	1	Luminal
+HSD17B2	1	Luminal
+STK32A	1	Luminal
+DAPP1	1	Luminal
+TIAM1	1	Luminal
+FAM13A	1	Luminal
+IGF2	1	Luminal
+UGT1A8	1	Luminal
+LYPD3	1	Luminal
+KIF26B	1	Luminal
+PTPRE	1	Luminal
+GJB6	1	Luminal
+TRABD2B	1	Luminal
+KRT23	1	Luminal
+ADGRL2	1	Luminal
+CERS3	1	Luminal
+MALL	1	Luminal
+CDK6	1	Luminal
+GRAMD2B	1	Luminal
+MACC1	1	Luminal
+MID1	1	Luminal
+LMTK2	1	Luminal
+GRHL3	1	Luminal
+TRHDE	1	Luminal
+SLC15A1	1	Luminal
+C10orf99	1	Luminal
+B4GALT4	1	Luminal
+FLNB	1	Luminal
+VGLL3	1	Luminal
+LRATD1	1	Luminal
+GRHL1	1	Luminal
+ATP2C2	1	Luminal
+CAB39	1	Luminal
+ABLIM3	1	Luminal
+CLCA2	1	Luminal
+FSTL4	1	Luminal
+CATSPERB	1	Luminal
+CAB39L	1	Luminal
+TMPRSS2	1	Luminal
+UPK3B	1	Luminal
+NCKAP5	1	Luminal
+CD24	1	Luminal
+ANXA1	1	Luminal
+HDAC2-AS2	1	Luminal
+DUSP16	1	Luminal
+YOD1	1	Luminal
+SNTG1	1	Luminal
+ZNF217	1	Luminal
+FIGN	1	Luminal
+ELF5	1	Luminal
+UPK3A	1	Luminal
+PKIA-AS1	1	Luminal
+HNMT	1	Luminal
+RGS17	1	Luminal
+SMAD6	1	Luminal
+CST1	1	Luminal
+CA9	1	Luminal
+ACSL1	1	Luminal
+RAB8B	1	Luminal
+UPK2	1	Luminal
+CDKL5	1	Luminal
+KCND3	1	Luminal
+PAG1	1	Luminal
+MPP7	1	Luminal
+GAN	1	Luminal
+PLAUR	1	Luminal
+CST4	1	Luminal
+CHST15	1	Luminal
+MEIS1	1	Luminal
+SLC8A1-AS1	1	Luminal
+RAB27B	1	Luminal
+NIBAN1	1	Luminal
+PLD1	1	Luminal
+BMP2	1	Luminal
+CXCL8	1	Luminal
+MTCP1	1	Luminal
+SCNN1B	1	Luminal
+GK	1	Luminal
+SPTLC3	1	Luminal
+TBC1D30	1	Luminal
+ENC1	1	Luminal
+PLS3	1	Luminal
+PHGR1	1	Luminal
+REG4	1	Luminal
+FER1L6	1	Luminal
+TMEM40	1	Luminal
+CYP7B1	1	Luminal
+UFL1-AS1	1	Luminal
+DIRC3	1	Luminal
+CALML3	1	Luminal
+COLEC10	1	Luminal
+SLC12A6	1	Luminal
+GNAI1	1	Luminal
+TRHDE-AS1	1	Luminal
+UPK1A	1	Luminal
+IL20RA	1	Luminal
+CXCL2	1	Luminal
+OPN3	1	Luminal
+FBXO8	1	Luminal
+DHRS9	1	Luminal
+C5orf66	1	Luminal
+CCDC181	1	Luminal
+ACVR2A	1	Luminal
+THBD	1	Luminal
+CSTA	1	Luminal
+HOPX	1	Luminal
+CDRT1	1	Luminal
+MUC2	1	Luminal
+RAB38	1	Luminal
+JPH2	1	Luminal
+NYAP2	1	Luminal
+LIF	1	Luminal
+ADGRE2	1	Luminal
+RHCG	1	Luminal
+YPEL2	1	Luminal
+MORC4	1	Luminal
+MAGEA10	1	Luminal
+FER1L6-AS1	1	Luminal
+ATG4A	1	Luminal
+COL24A1	1	Luminal
+WNT5A	2	Neural-like progenitor
+ROBO1	2	Neural-like progenitor
+CPA6	2	Neural-like progenitor
+CAMK1D	2	Neural-like progenitor
+NBEA	2	Neural-like progenitor
+LRP1B	2	Neural-like progenitor
+ARHGAP6	2	Neural-like progenitor
+ADGRB3	2	Neural-like progenitor
+RBMS3	2	Neural-like progenitor
+AGR3	2	Neural-like progenitor
+TRPS1	2	Neural-like progenitor
+KYNU	2	Neural-like progenitor
+BRINP3	2	Neural-like progenitor
+SIPA1L2	2	Neural-like progenitor
+UBE2E2	2	Neural-like progenitor
+NR2F1-AS1	2	Neural-like progenitor
+CPED1	2	Neural-like progenitor
+CHST9	2	Neural-like progenitor
+SCN2A	2	Neural-like progenitor
+PPM1L	2	Neural-like progenitor
+ERVMER61-1	2	Neural-like progenitor
+BCL2	2	Neural-like progenitor
+LUZP2	2	Neural-like progenitor
+FOXP2	2	Neural-like progenitor
+PDGFC	2	Neural-like progenitor
+CSMD3	2	Neural-like progenitor
+PALMD	2	Neural-like progenitor
+PDE8B	2	Neural-like progenitor
+ANGPT1	2	Neural-like progenitor
+WNT5B	2	Neural-like progenitor
+C22orf34	2	Neural-like progenitor
+SV2C	2	Neural-like progenitor
+GRM3	2	Neural-like progenitor
+WNK2	2	Neural-like progenitor
+ZNF365	2	Neural-like progenitor
+CHL1	2	Neural-like progenitor
+PRSS23	2	Neural-like progenitor
+GUCY1A2	2	Neural-like progenitor
+MAPRE2	2	Neural-like progenitor
+MEF2C	2	Neural-like progenitor
+CSPG4	2	Neural-like progenitor
+EPHA7	2	Neural-like progenitor
+GULP1	2	Neural-like progenitor
+ADAMTS20	2	Neural-like progenitor
+SGCZ	2	Neural-like progenitor
+APCDD1	2	Neural-like progenitor
+BMPR1B	2	Neural-like progenitor
+MCTP1	2	Neural-like progenitor
+FIRRE	2	Neural-like progenitor
+CHSY3	2	Neural-like progenitor
+ANKH	2	Neural-like progenitor
+CDH9	2	Neural-like progenitor
+TRIM5	2	Neural-like progenitor
+LRFN5	2	Neural-like progenitor
+FSTL5	2	Neural-like progenitor
+QRFPR	2	Neural-like progenitor
+ABCC9	2	Neural-like progenitor
+GHR	2	Neural-like progenitor
+SCGB3A1	2	Neural-like progenitor
+PLSCR4	2	Neural-like progenitor
+FCRLB	2	Neural-like progenitor
+MEF2C-AS1	2	Neural-like progenitor
+OLFM4	2	Neural-like progenitor
+NRK	2	Neural-like progenitor
+CAPN13	2	Neural-like progenitor
+CA8	2	Neural-like progenitor
+CDH10	2	Neural-like progenitor
+LEFTY1	2	Neural-like progenitor
+TRPM6	2	Neural-like progenitor
+PCDH15	2	Neural-like progenitor
+PPP1R1C	2	Neural-like progenitor
+MUC4	3	Squamous
+PTPRZ1	3	Squamous
+DSG3	3	Squamous
+CT69	3	Squamous
+SERPINB13	3	Squamous
+DSC3	3	Squamous
+KRT6A	3	Squamous
+BARX2	3	Squamous
+PKP1	3	Squamous
+SERPINB12	3	Squamous
+HS3ST3A1	3	Squamous
+KLK11	3	Squamous
+FMO3	3	Squamous
+ABCA13	3	Squamous
+PCAT5	3	Squamous
+CUL2	3	Squamous
+SLCO1B3	3	Squamous
+GCNT2	3	Squamous
+CALB1	3	Squamous
+TXNRD1	3	Squamous
+SLURP2	3	Squamous
+AKR1B10	3	Squamous
+ADH7	3	Squamous
+GABRP	3	Squamous
+CES1	3	Squamous
+CD44	3	Squamous
+MYEOV	3	Squamous
+DSG4	3	Squamous
+GSDMC	3	Squamous
+CCNY	3	Squamous
+GCNT3	3	Squamous
+FMO2	3	Squamous
+CLDN10-AS1	3	Squamous
+KLK10	3	Squamous
+ADAMTSL3	3	Squamous
+DTHD1	3	Squamous
+RARB	3	Squamous
+SLC22A3	3	Squamous
+RNF217-AS1	3	Squamous
+ALDH3A1	3	Squamous
+TMPRSS11D	3	Squamous
+CLEC2A	3	Squamous
+ESR1	3	Squamous
+GRIK1	3	Squamous
+SERPINB11	3	Squamous
+SPON1	3	Squamous
+GLI2	3	Squamous
+PLEKHS1	3	Squamous
+FGGY	3	Squamous
+ATP13A5	3	Squamous
+DEFB1	3	Squamous
+AC008517.1	3	Squamous
+IDO2	3	Squamous
+SPRR1B	3	Squamous
+KLK13	3	Squamous
+DPH6-DT	3	Squamous
+SPRR2A	3	Squamous
+LY86-AS1	3	Squamous
+SPRR2D	3	Squamous
+ABCA4	3	Squamous
+ROS1	3	Squamous
+SCGB1A1	3	Squamous
+VNN1	3	Squamous
+RGS7BP	3	Squamous
+HTR1E	3	Squamous
+KRT1	3	Squamous
+AF212831.1	3	Squamous
+CPA4	3	Squamous
+CDH19	4	Mesenchymal
+FDCSP	4	Mesenchymal
+AC136616.1	4	Mesenchymal
+CDH13	4	Mesenchymal
+RFX4	4	Mesenchymal
+NFIA-AS2	4	Mesenchymal
+CA10	4	Mesenchymal
+CRYAB	4	Mesenchymal
+BICC1	4	Mesenchymal
+A2M	4	Mesenchymal
+NPAS3	4	Mesenchymal
+FGFR1	4	Mesenchymal
+TCF4	4	Mesenchymal
+TMOD1	4	Mesenchymal
+KLHL4	4	Mesenchymal
+DMD	4	Mesenchymal
+WIF1	4	Mesenchymal
+SHC4	4	Mesenchymal
+ZEB2	4	Mesenchymal
+VIM	4	Mesenchymal
+CFAP61	4	Mesenchymal
+COL8A1	4	Mesenchymal
+EYA2	4	Mesenchymal
+THSD7B	4	Mesenchymal
+RUNX1T1	4	Mesenchymal
+CHRM3	4	Mesenchymal
+GFAP	4	Mesenchymal
+ACTN1	4	Mesenchymal
+NOL4	4	Mesenchymal
+ABI3BP	4	Mesenchymal
+PRRX1	4	Mesenchymal
+NFATC2	4	Mesenchymal
+SERPINE2	4	Mesenchymal
+BACH2	4	Mesenchymal
+FMN1	4	Mesenchymal
+DACH1	4	Mesenchymal
+PGM2L1	4	Mesenchymal
+CCN1	4	Mesenchymal
+NFIB	4	Mesenchymal
+ACAN	4	Mesenchymal
+ANKRD30A	4	Mesenchymal
+MSN	4	Mesenchymal
+BMPER	4	Mesenchymal
+GRID2	4	Mesenchymal
+COL4A2	4	Mesenchymal
+SPARC	4	Mesenchymal
+MRC2	4	Mesenchymal
+COL18A1	4	Mesenchymal
+TENM3	4	Mesenchymal
+FRMD4B	4	Mesenchymal
+MITF	4	Mesenchymal
+SLC35F1	4	Mesenchymal
+CNTN1	4	Mesenchymal
+PCSK2	4	Mesenchymal
+NFIA	4	Mesenchymal
+NEUROD1	4	Mesenchymal
+ENPP2	4	Mesenchymal
+TCF7L1	4	Mesenchymal
+ST3GAL6	4	Mesenchymal
+ITGA2	4	Mesenchymal
+NRCAM	4	Mesenchymal
+PHOX2B	4	Mesenchymal
+CNTNAP2	4	Mesenchymal
+RERG	4	Mesenchymal
+NNMT	4	Mesenchymal
+ZIC2	4	Mesenchymal
+PALM2-AKAP2	4	Mesenchymal
+NNAT	4	Mesenchymal
+MME	4	Mesenchymal
+APOE	4	Mesenchymal
+PLP1	4	Mesenchymal
+POTEF	4	Mesenchymal
+IGFBP7	4	Mesenchymal
+CCL2	4	Mesenchymal
+NEXMIF	4	Mesenchymal
+ELMO1	4	Mesenchymal
+CALD1	4	Mesenchymal
+RANBP3L	4	Mesenchymal
+ZNF536	4	Mesenchymal
+SH3GL2	4	Mesenchymal
+CERKL	4	Mesenchymal
+SOX6	4	Mesenchymal
+LRRTM4	4	Mesenchymal
+CITED1	4	Mesenchymal
+SAMD4A	4	Mesenchymal
+ARPP21	4	Mesenchymal
+ARHGAP24	4	Mesenchymal
+XKR4	4	Mesenchymal
+NUAK1	4	Mesenchymal
+SFRP1	4	Mesenchymal
+MICAL2	4	Mesenchymal
+KCNH7	4	Mesenchymal
+HCN1	4	Mesenchymal
+GEM	4	Mesenchymal
+LETM2	4	Mesenchymal
+COL4A1	4	Mesenchymal
+BMP6	4	Mesenchymal
+GKAP1	4	Mesenchymal
+ANK2	4	Mesenchymal
+CADM2	4	Mesenchymal
+ANTXR1	4	Mesenchymal
+VCAN	4	Mesenchymal
+ECRG4	4	Mesenchymal
+EYA1	4	Mesenchymal
+C13orf42	4	Mesenchymal
+OTX2	4	Mesenchymal
+SERPINA5	4	Mesenchymal
+SLCO1B7	4	Mesenchymal
+BGN	4	Mesenchymal
+SAT1	4	Mesenchymal
+LEFTY2	4	Mesenchymal
+SCRG1	4	Mesenchymal
+HRH1	4	Mesenchymal
+KIRREL1	4	Mesenchymal
+NR2F1	4	Mesenchymal
+EBF3	4	Mesenchymal
+FAM230C	4	Mesenchymal
+SORCS1	4	Mesenchymal
+MGP	4	Mesenchymal
+TNFRSF19	4	Mesenchymal
+COL12A1	4	Mesenchymal
+PDGFRA	4	Mesenchymal
+PRR16	4	Mesenchymal
+UGT3A1	4	Mesenchymal
+COL1A2	4	Mesenchymal
+CACNA1A	4	Mesenchymal
+DCT	4	Mesenchymal
+TGFB2	4	Mesenchymal
+ELAVL4	4	Mesenchymal
+SUSD4	4	Mesenchymal
+SYNPR	4	Mesenchymal
+COL6A1	4	Mesenchymal
+PLCB4	4	Mesenchymal
+LEF1	4	Mesenchymal
+COL6A2	4	Mesenchymal
+PDLIM3	4	Mesenchymal
+TRPM1	4	Mesenchymal
+ARNTL2	4	Mesenchymal
+SORBS1	4	Mesenchymal
+IL13RA2	4	Mesenchymal
+FREM1	4	Mesenchymal
+TRIM9	4	Mesenchymal
+COL19A1	4	Mesenchymal
+NTM	4	Mesenchymal
+HAPLN1	4	Mesenchymal
+NKAIN3	4	Mesenchymal
+GBP1	4	Mesenchymal
+RGS16	4	Mesenchymal
+TYR	4	Mesenchymal
+GPC4	4	Mesenchymal
+XYLT1	4	Mesenchymal
+OXCT1	4	Mesenchymal
+GUCY1A1	4	Mesenchymal
+ASCL1	4	Mesenchymal
+GRM7	4	Mesenchymal
+MS4A8	4	Mesenchymal
+EDIL3	4	Mesenchymal
+ADAMTSL1	4	Mesenchymal
+SNED1	4	Mesenchymal
+COL9A2	4	Mesenchymal
+C1QL1	4	Mesenchymal
+CCDC144NL-AS1	4	Mesenchymal
+SLC2A3	4	Mesenchymal
+RALYL	4	Mesenchymal
+PTGFR	4	Mesenchymal
+KC877982.1	4	Mesenchymal
+FGFBP2	4	Mesenchymal
+SPARCL1	4	Mesenchymal
+SORCS3	4	Mesenchymal
+ROCR	4	Mesenchymal
+PTENP1-AS	4	Mesenchymal
+MEST	4	Mesenchymal
+ENOX1	4	Mesenchymal
+NTRK3	4	Mesenchymal
+FOXD3	4	Mesenchymal
+HRK	4	Mesenchymal
+HEG1	4	Mesenchymal
+PMEL	4	Mesenchymal
+PAPPA	4	Mesenchymal
+TRPM3	4	Mesenchymal
+LAMA1	4	Mesenchymal
+PTH2R	4	Mesenchymal
+SEZ6L	4	Mesenchymal
+SYT4	4	Mesenchymal
+EGFLAM	4	Mesenchymal
+MYT1L	4	Mesenchymal
+COL21A1	4	Mesenchymal
+LIFR	4	Mesenchymal
+TSPAN8	4	Mesenchymal
+COL1A1	4	Mesenchymal
+CDH18	4	Mesenchymal
+ZFHX4	4	Mesenchymal
+LRRC2	4	Mesenchymal
+PPP1R14C	4	Mesenchymal
+PRICKLE2	4	Mesenchymal
+CDH12	4	Mesenchymal
+CAVIN1	4	Mesenchymal
+SULF2	4	Mesenchymal
+CPE	4	Mesenchymal
+SNTG2	4	Mesenchymal
+MMP1	4	Mesenchymal
+PHLDB2	4	Mesenchymal
+GNG8	4	Mesenchymal
+PCDH9	4	Mesenchymal
+C5orf46	4	Mesenchymal
+PMP22	4	Mesenchymal
+SP8	4	Mesenchymal
+RBP4	4	Mesenchymal
+SERPINA3	4	Mesenchymal
+TENM3-AS1	4	Mesenchymal
+PCDH9-AS2	4	Mesenchymal
+PDE1C	4	Mesenchymal
+PPFIA2	4	Mesenchymal
+CPXM2	4	Mesenchymal
+ANO4	4	Mesenchymal
+STK32B	4	Mesenchymal
+BNC2	4	Mesenchymal
+NTRK2	4	Mesenchymal
+RASSF8	4	Mesenchymal
+TSPAN7	4	Mesenchymal
+AKAP6	4	Mesenchymal
+TNC	4	Mesenchymal
+SERPINA11	4	Mesenchymal
+CCN2	4	Mesenchymal
+KCNMA1	4	Mesenchymal
+TOGARAM2	4	Mesenchymal
+KCNT2	4	Mesenchymal
+NES	4	Mesenchymal
+IGFL4	4	Mesenchymal
+ANOS1	4	Mesenchymal
+GSG1L	4	Mesenchymal
+CYTH3	4	Mesenchymal
+GFRA1	4	Mesenchymal
+FABP7	4	Mesenchymal
+LAMA4	4	Mesenchymal
+IGF1	4	Mesenchymal
+ST5	4	Mesenchymal
+FLG-AS1	4	Mesenchymal
+RSPO3	4	Mesenchymal
+PDE4B	4	Mesenchymal
+SCN7A	4	Mesenchymal
+AFF3	4	Mesenchymal
+PCOLCE	4	Mesenchymal
+CLVS2	4	Mesenchymal
+RYR2	4	Mesenchymal
+AGBL1	4	Mesenchymal
+LHX1	4	Mesenchymal
+PLPPR4	4	Mesenchymal
+ANKRD33B	4	Mesenchymal
+SEMA5B	4	Mesenchymal
+OLFML2B	4	Mesenchymal
+NCAM2	4	Mesenchymal
+CNTNAP3B	4	Mesenchymal
+ADCY8	4	Mesenchymal
+MIR124-2HG	4	Mesenchymal
+MAOB	4	Mesenchymal
+TUBA3C	4	Mesenchymal
+UNC5C	4	Mesenchymal
+ROBO2	4	Mesenchymal
+MDFIC2	4	Mesenchymal
+SCN1A	4	Mesenchymal
+EYS	4	Mesenchymal
+ADAM23	4	Mesenchymal
+UBASH3B	4	Mesenchymal
+MPZ	4	Mesenchymal
+KCNJ3	4	Mesenchymal
+MSRB3	4	Mesenchymal
+PPP4R4	4	Mesenchymal
+POU3F3	4	Mesenchymal
+IGSF11	4	Mesenchymal
+SLC16A12	4	Mesenchymal
+FAM133A	4	Mesenchymal
+MMD2	4	Mesenchymal
+COL6A3	4	Mesenchymal
+MIA	4	Mesenchymal
+SLC16A2	4	Mesenchymal
+PEG3	4	Mesenchymal
+STK38L	4	Mesenchymal
+SYNPO2	4	Mesenchymal
+SIAH3	4	Mesenchymal
+ADARB1	4	Mesenchymal
+DPF3	4	Mesenchymal
+MMP10	4	Mesenchymal
+CRISPLD1	4	Mesenchymal
+KCTD8	4	Mesenchymal
+ARSJ	4	Mesenchymal
+ITGA9	4	Mesenchymal
+VAT1L	4	Mesenchymal
+PCDH11X	4	Mesenchymal
+NHSL2	4	Mesenchymal
+GDNF-AS1	4	Mesenchymal
+AC067773.1	4	Mesenchymal
+HDAC9	4	Mesenchymal
+MXRA8	4	Mesenchymal
+PDE3A	4	Mesenchymal
+IL1RAP	4	Mesenchymal
+C4orf54	4	Mesenchymal
+CSGALNACT1	4	Mesenchymal
+PRDM16	4	Mesenchymal
+SDC2	4	Mesenchymal
+1-Dec	4	Mesenchymal
+RERGL	4	Mesenchymal
+PLPP1	4	Mesenchymal
+CHGB	4	Mesenchymal
+ADAMTS17	4	Mesenchymal
+CCDC80	4	Mesenchymal
+RASSF9	4	Mesenchymal
+NRP2	4	Mesenchymal
+GPC5	4	Mesenchymal
+PTX3	4	Mesenchymal
+NALCN	4	Mesenchymal
+BHLHE22	4	Mesenchymal
+COL5A2	4	Mesenchymal
+CDH3	4	Mesenchymal
+LINGO2	4	Mesenchymal
+FN1	4	Mesenchymal
+PCDH11Y	4	Mesenchymal
+HAND2	4	Mesenchymal
+ADARB2	4	Mesenchymal
+KCNQ5	4	Mesenchymal
+FBN1	4	Mesenchymal
+FBLN5	4	Mesenchymal
+ARHGAP28	4	Mesenchymal
+SHISA9	4	Mesenchymal
+CDH18-AS1	4	Mesenchymal
+TBX5	4	Mesenchymal
+CX3CL1	4	Mesenchymal
+TSBP1-AS1	4	Mesenchymal
+LUM	4	Mesenchymal
+PTPRO	4	Mesenchymal
+TSPEAR	4	Mesenchymal
+RGS4	4	Mesenchymal
+ADAM19	4	Mesenchymal
+STAC2	4	Mesenchymal
+PRIMA1	4	Mesenchymal
+GRIK4	4	Mesenchymal
+SYN2	4	Mesenchymal
+GDNF	4	Mesenchymal
+LGR5	4	Mesenchymal
+SLC6A15	4	Mesenchymal
+DDR2	4	Mesenchymal
+SH3GL3	4	Mesenchymal
+CDH22	4	Mesenchymal
+NTS	4	Mesenchymal
+MFAP4	4	Mesenchymal
+GRIK3	4	Mesenchymal
+DCAF8L2	4	Mesenchymal
+SLC6A5	4	Mesenchymal
+COL3A1	4	Mesenchymal
+NTNG1	4	Mesenchymal
+PLXNA4	4	Mesenchymal
+GPR176	4	Mesenchymal
+NGF	4	Mesenchymal
+CYTOR	4	Mesenchymal
+BCAN	4	Mesenchymal
+ADAM12	4	Mesenchymal
+DLK1	4	Mesenchymal
+CCDC178	4	Mesenchymal
+COL9A1	4	Mesenchymal
+RNF182	4	Mesenchymal
+PCDH19	4	Mesenchymal
+AJAP1	4	Mesenchymal
+NPR3	4	Mesenchymal
+PKHD1L1	4	Mesenchymal
+VCAN-AS1	4	Mesenchymal
+SUGCT	4	Mesenchymal
+GRIA4	4	Mesenchymal
+ATP10A	4	Mesenchymal
+MGLL	4	Mesenchymal
+SERPINA12	4	Mesenchymal
+S100A1	4	Mesenchymal
+SGIP1	4	Mesenchymal
+ADAMTS8	4	Mesenchymal
+FAM135B	4	Mesenchymal
+ATP1A2	4	Mesenchymal
+FGF5	4	Mesenchymal
+BPI	4	Mesenchymal
+ADAMTS5	4	Mesenchymal
+WFIKKN2	4	Mesenchymal
+WDR49	4	Mesenchymal
+LRRC53	4	Mesenchymal
+ISL1	4	Mesenchymal
+DGKB	4	Mesenchymal
+HMCN2	4	Mesenchymal
+CABP7	4	Mesenchymal
+FRMPD4	4	Mesenchymal
+CASC17	4	Mesenchymal
+ASB4	4	Mesenchymal
+KLHL1	4	Mesenchymal
+SMAD9	4	Mesenchymal
+RHBDL3	4	Mesenchymal
+CTAG2	4	Mesenchymal
+MGAT4C	4	Mesenchymal
+MEOX2	4	Mesenchymal
+U91319.1	4	Mesenchymal
+C2CD6	4	Mesenchymal
+C10orf90	4	Mesenchymal
+POSTN	4	Mesenchymal
+FOLR1	4	Mesenchymal
+NECTIN3	4	Mesenchymal
+NUP62CL	4	Mesenchymal
+ST8SIA6-AS1	4	Mesenchymal
+SMOC1	4	Mesenchymal
+ZFHX4-AS1	4	Mesenchymal
+MEI4	4	Mesenchymal
+CAMK4	4	Mesenchymal
+MSC-AS1	4	Mesenchymal
+GPC5-AS2	4	Mesenchymal
+NWD1	4	Mesenchymal
+DCN	4	Mesenchymal
+NELL1	4	Mesenchymal
+DCC	4	Mesenchymal
+LURAP1L	4	Mesenchymal
+CALN1	4	Mesenchymal
+TMEM132B	4	Mesenchymal
+CNTN5	4	Mesenchymal
+GABRG3	4	Mesenchymal
+MUC7	4	Mesenchymal
+ANO3	4	Mesenchymal
+ITGA11	4	Mesenchymal
+PRLR	4	Mesenchymal
+OCA2	4	Mesenchymal
+VEPH1	4	Mesenchymal
+ANKRD1	4	Mesenchymal
+PHEX	4	Mesenchymal
+FYB2	4	Mesenchymal
+NDST4	4	Mesenchymal
+SULT1C4	4	Mesenchymal
+SCG2	4	Mesenchymal
+CACNA1E	4	Mesenchymal
+COL11A1	4	Mesenchymal
+PWWP3B	4	Mesenchymal
+AC099541.2	4	Mesenchymal
+C7orf33	4	Mesenchymal
+CALCRL	4	Mesenchymal
+SNAP25-AS1	4	Mesenchymal
+FNDC1	4	Mesenchymal
+DBH	4	Mesenchymal
+ABLIM2	4	Mesenchymal
+PPEF1	4	Mesenchymal
+ASB5	4	Mesenchymal
+CFAP299	4	Mesenchymal
+ARHGEF26	4	Mesenchymal
+EML6	4	Mesenchymal
+CCN3	4	Mesenchymal
+CNGB1	4	Mesenchymal
+AMPH	4	Mesenchymal
+TCEAL7	4	Mesenchymal
+AARD	4	Mesenchymal
+PCDH8	4	Mesenchymal
+CDH20	4	Mesenchymal
+ERICH3-AS1	4	Mesenchymal
+OTX2-AS1	4	Mesenchymal
+MKX	4	Mesenchymal
+USH2A	4	Mesenchymal
+SPANXA2-OT1	4	Mesenchymal
+SPHKAP	4	Mesenchymal
+CXCL11	4	Mesenchymal
+PGA5	4	Mesenchymal
+GRIN2A	4	Mesenchymal
+PDE1A	4	Mesenchymal
+FGF10	4	Mesenchymal
+MYOCD	4	Mesenchymal
+PAX3	4	Mesenchymal
+TWIST1	4	Mesenchymal
+ZPLD1	4	Mesenchymal
+VCAM1	4	Mesenchymal
+ONECUT1	4	Mesenchymal
+C1orf143	4	Mesenchymal
+CCDC3	4	Mesenchymal
+RXRG	4	Mesenchymal
+MDGA2	4	Mesenchymal
+ANGPTL7	4	Mesenchymal
+PLPPR5	4	Mesenchymal
+COL15A1	4	Mesenchymal
+HULC	4	Mesenchymal
+SMOC2	4	Mesenchymal
+KANK4	4	Mesenchymal
+LAMB4	4	Mesenchymal
+RBM20	4	Mesenchymal
+ZBBX	4	Mesenchymal
+AC018359.1	4	Mesenchymal
+NXPH1	4	Mesenchymal
+NPS	4	Mesenchymal
+GRM5	4	Mesenchymal
+KCNK13	4	Mesenchymal
+NREP-AS1	4	Mesenchymal
+TWIST2	4	Mesenchymal
+NOX4	4	Mesenchymal
+KLHDC8A	4	Mesenchymal
+ODAM	4	Mesenchymal
+OTULINL	4	Mesenchymal
+AC003685.1	4	Mesenchymal
+INSC	4	Mesenchymal
+TMEFF2	4	Mesenchymal
+SLC25A48	4	Mesenchymal
+GLIS1	4	Mesenchymal
+SNHG31	4	Mesenchymal
+CAMK2A	4	Mesenchymal
+GABRG3-AS1	4	Mesenchymal
+HHIP	4	Mesenchymal
+GFPT2	4	Mesenchymal
+EPYC	4	Mesenchymal
+EPHA5	4	Mesenchymal
+GALNTL6	4	Mesenchymal
+DGKK	4	Mesenchymal
+XACT	4	Mesenchymal
+TMPRSS15	4	Mesenchymal
+HTN1	4	Mesenchymal
+ZNF385D-AS2	4	Mesenchymal
+ESM1	4	Mesenchymal
+C9orf135	4	Mesenchymal
+SSUH2	4	Mesenchymal
+SLCO1C1	4	Mesenchymal
+VENTXP1	4	Mesenchymal
+MT1G	4	Mesenchymal
+AGT	4	Mesenchymal
+ADAMTS3	4	Mesenchymal
+BRINP2	4	Mesenchymal
+ZNF679	4	Mesenchymal
+TMEM207	4	Mesenchymal
+FGF10-AS1	4	Mesenchymal
+MMP11	4	Mesenchymal
+PRL	4	Mesenchymal
+MLIP	4	Mesenchymal
+CABP5	4	Mesenchymal
+HTRA3	4	Mesenchymal
+KCNMA1-AS1	4	Mesenchymal
+AC009468.2	4	Mesenchymal
+SLC6A3	4	Mesenchymal
+CACNG5	4	Mesenchymal
+FAT3	5	Neuroendocrine
+POU2F3	5	Neuroendocrine
+FRMD4A	5	Neuroendocrine
+ST6GALNAC5	5	Neuroendocrine
+CNTN6	5	Neuroendocrine
+RBFOX1	5	Neuroendocrine
+ITPRID1	5	Neuroendocrine
+PTPRT	5	Neuroendocrine
+PTPRJ	5	Neuroendocrine
+LRMP	5	Neuroendocrine
+CORO2B	5	Neuroendocrine
+PSD2	5	Neuroendocrine
+DAB1	5	Neuroendocrine
+NEBL	5	Neuroendocrine
+PIK3R5	5	Neuroendocrine
+CSMD2	5	Neuroendocrine
+CADPS2	5	Neuroendocrine
+GAB2	5	Neuroendocrine
+CELF4	5	Neuroendocrine
+ST6GALNAC3	5	Neuroendocrine
+NAV2	5	Neuroendocrine
+BMX	5	Neuroendocrine
+IGSF21	5	Neuroendocrine
+GAS7	5	Neuroendocrine
+SPTLC2	5	Neuroendocrine
+TMEM108	5	Neuroendocrine
+KCNB2	5	Neuroendocrine
+DGKI	5	Neuroendocrine
+NCAM1	5	Neuroendocrine
+RGL1	5	Neuroendocrine
+RIMS2	5	Neuroendocrine
+ADGRL3	5	Neuroendocrine
+KIF1A	5	Neuroendocrine
+ARNT2	5	Neuroendocrine
+ALOX5	5	Neuroendocrine
+CEACAM19	5	Neuroendocrine
+DNAH14	5	Neuroendocrine
+RGS13	5	Neuroendocrine
+PTPN18	5	Neuroendocrine
+PHACTR1	5	Neuroendocrine
+SLC44A1	5	Neuroendocrine
+HCK	5	Neuroendocrine
+PCSK5	5	Neuroendocrine
+PVR	5	Neuroendocrine
+CCDC14	5	Neuroendocrine
+TSPAN5	5	Neuroendocrine
+CACNA1B	5	Neuroendocrine
+SLC22A23	5	Neuroendocrine
+CARMIL1	5	Neuroendocrine
+PTPRN2	5	Neuroendocrine
+LRRC6	5	Neuroendocrine
+KCNH8	5	Neuroendocrine
+AVIL	5	Neuroendocrine
+NRG3	5	Neuroendocrine
+CNTN4	5	Neuroendocrine
+MTSS1	5	Neuroendocrine
+CHAT	5	Neuroendocrine
+NFASC	5	Neuroendocrine
+DPYSL5	5	Neuroendocrine
+CTNNA2	5	Neuroendocrine
+SPOCK1	5	Neuroendocrine
+APBA2	5	Neuroendocrine
+AUTS2	5	Neuroendocrine
+NRXN1	5	Neuroendocrine
+TUBA1A	5	Neuroendocrine
+CLMN	5	Neuroendocrine
+DPYSL3	5	Neuroendocrine
+ST18	5	Neuroendocrine
+KCTD1	5	Neuroendocrine
+PLA2G4A	5	Neuroendocrine
+MAP1B	5	Neuroendocrine
+CELF2	5	Neuroendocrine
+C1orf61	5	Neuroendocrine
+STXBP5L	5	Neuroendocrine
+DKK3	5	Neuroendocrine
+MEGF11	5	Neuroendocrine
+CTNND2	5	Neuroendocrine
+JAZF1	5	Neuroendocrine
+LIMD1	5	Neuroendocrine
+INSYN2B	5	Neuroendocrine
+SGO1-AS1	5	Neuroendocrine
+ELAVL3	5	Neuroendocrine
+NAV1	5	Neuroendocrine
+BUB3	5	Neuroendocrine
+FSD1L	5	Neuroendocrine
+LRRN2	5	Neuroendocrine
+CADM1	5	Neuroendocrine
+NCMAP	5	Neuroendocrine
+CDKAL1	5	Neuroendocrine
+LY6H	5	Neuroendocrine
+GRK5	5	Neuroendocrine
+SDK1	5	Neuroendocrine
+RASGRF2	5	Neuroendocrine
+NCK2	5	Neuroendocrine
+ANKS1B	5	Neuroendocrine
+UTRN	5	Neuroendocrine
+TAFA5	5	Neuroendocrine
+RUNX2	5	Neuroendocrine
+ITPR2	5	Neuroendocrine
+GPR137B	5	Neuroendocrine
+CEP170	5	Neuroendocrine
+GPR158	5	Neuroendocrine
+PCLO	5	Neuroendocrine
+ZNF804A	5	Neuroendocrine
+CRMP1	5	Neuroendocrine
+AK4	5	Neuroendocrine
+ALOX5AP	5	Neuroendocrine
+ADAMTS18	5	Neuroendocrine
+ERC2	5	Neuroendocrine
+RICTOR	5	Neuroendocrine
+SOBP	5	Neuroendocrine
+RNF220	5	Neuroendocrine
+MAN2A1	5	Neuroendocrine
+PPM1E	5	Neuroendocrine
+SH2D6	5	Neuroendocrine
+RASSF6	5	Neuroendocrine
+PAK3	5	Neuroendocrine
+SH3RF3	5	Neuroendocrine
+ATP2A3	5	Neuroendocrine
+CLVS1	5	Neuroendocrine
+SNTB1	5	Neuroendocrine
+TLCD5	5	Neuroendocrine
+KLF12	5	Neuroendocrine
+C11orf53	5	Neuroendocrine
+KIF5C	5	Neuroendocrine
+FMN2	5	Neuroendocrine
+DSCAML1	5	Neuroendocrine
+DPP6	5	Neuroendocrine
+COL2A1	5	Neuroendocrine
+PEAK1	5	Neuroendocrine
+TMEM178B	5	Neuroendocrine
+PROX1	5	Neuroendocrine
+SGCD	5	Neuroendocrine
+SCN3A	5	Neuroendocrine
+CDKN2B-AS1	5	Neuroendocrine
+FYN	5	Neuroendocrine
+GABRB2	5	Neuroendocrine
+HEPACAM2	5	Neuroendocrine
+SUPT3H	5	Neuroendocrine
+GABRB3	5	Neuroendocrine
+CHN1	5	Neuroendocrine
+CNIH3	5	Neuroendocrine
+CDH2	5	Neuroendocrine
+CADPS	5	Neuroendocrine
+DTL	5	Neuroendocrine
+NEK6	5	Neuroendocrine
+PCAT18	5	Neuroendocrine
+PAX5	5	Neuroendocrine
+KALRN	5	Neuroendocrine
+CDK8	5	Neuroendocrine
+FBXO32	5	Neuroendocrine
+MGAM2	5	Neuroendocrine
+MAST2	5	Neuroendocrine
+RAPGEF4	5	Neuroendocrine
+PLXNA2	5	Neuroendocrine
+PREX1	5	Neuroendocrine
+PTPRD	5	Neuroendocrine
+STMN2	5	Neuroendocrine
+STOX2	5	Neuroendocrine
+GDAP1	5	Neuroendocrine
+SOX4	5	Neuroendocrine
+PTGS1	5	Neuroendocrine
+PHF21B	5	Neuroendocrine
+GRAMD1B	5	Neuroendocrine
+DOCK3	5	Neuroendocrine
+STARD9	5	Neuroendocrine
+OGDHL	5	Neuroendocrine
+CDH11	5	Neuroendocrine
+PDZRN3	5	Neuroendocrine
+KAT2B	5	Neuroendocrine
+SPIB	5	Neuroendocrine
+UNC5D	5	Neuroendocrine
+ZNF608	5	Neuroendocrine
+GRIA2	5	Neuroendocrine
+ALK	5	Neuroendocrine
+EZH2	5	Neuroendocrine
+FANCC	5	Neuroendocrine
+TRPM5	5	Neuroendocrine
+SCN5A	5	Neuroendocrine
+RFC3	5	Neuroendocrine
+MMP16	5	Neuroendocrine
+SYT14	5	Neuroendocrine
+HECW2	5	Neuroendocrine
+HELLS	5	Neuroendocrine
+LMCD1	5	Neuroendocrine
+HMGA2	5	Neuroendocrine
+ANKRD36	5	Neuroendocrine
+SCN8A	5	Neuroendocrine
+MAP2	5	Neuroendocrine
+PCP4	5	Neuroendocrine
+DCLK2	5	Neuroendocrine
+KAZN	5	Neuroendocrine
+VWC2	5	Neuroendocrine
+IL17RB	5	Neuroendocrine
+FRMD5	5	Neuroendocrine
+CDH4	5	Neuroendocrine
+SETBP1	5	Neuroendocrine
+PLEKHG4B	5	Neuroendocrine
+KCNN3	5	Neuroendocrine
+TTLL7	5	Neuroendocrine
+BRIP1	5	Neuroendocrine
+PIK3R6	5	Neuroendocrine
+C4orf19	5	Neuroendocrine
+PIP5K1B	5	Neuroendocrine
+ZNF618	5	Neuroendocrine
+CENPK	5	Neuroendocrine
+AGBL4	5	Neuroendocrine
+GALNT14	5	Neuroendocrine
+MMS22L	5	Neuroendocrine
+ATRNL1	5	Neuroendocrine
+TMEM65	5	Neuroendocrine
+GLP1R	5	Neuroendocrine
+GRB10	5	Neuroendocrine
+GNG4	5	Neuroendocrine
+CLSPN	5	Neuroendocrine
+EPHA4	5	Neuroendocrine
+CNN3	5	Neuroendocrine
+ZNF730	5	Neuroendocrine
+UNC79	5	Neuroendocrine
+SPATA13	5	Neuroendocrine
+PTPRG	5	Neuroendocrine
+POLA1	5	Neuroendocrine
+ARHGEF38	5	Neuroendocrine
+CDH6	5	Neuroendocrine
+GALNT17	5	Neuroendocrine
+SLCO3A1	5	Neuroendocrine
+ACADSB	5	Neuroendocrine
+SOX9	5	Neuroendocrine
+L3MBTL4	5	Neuroendocrine
+ADD2	5	Neuroendocrine
+VAV1	5	Neuroendocrine
+KATNAL1	5	Neuroendocrine
+E2F3	5	Neuroendocrine
+ERO1B	5	Neuroendocrine
+HPYR1	5	Neuroendocrine
+JAM3	5	Neuroendocrine
+SATB2	5	Neuroendocrine
+SOGA3	5	Neuroendocrine
+NFATC1	5	Neuroendocrine
+PIK3CG	5	Neuroendocrine
+TMEFF1	5	Neuroendocrine
+ASAP2	5	Neuroendocrine
+KCNQ3	5	Neuroendocrine
+TMEM131L	5	Neuroendocrine
+LMNB1	5	Neuroendocrine
+UBE2QL1	5	Neuroendocrine
+UCHL1	5	Neuroendocrine
+ALCAM	5	Neuroendocrine
+NETO2	5	Neuroendocrine
+COL22A1	5	Neuroendocrine
+CMTM8	5	Neuroendocrine
+GRIK2	5	Neuroendocrine
+OPCML	5	Neuroendocrine
+HACE1	5	Neuroendocrine
+GNAO1	5	Neuroendocrine
+CNTLN	5	Neuroendocrine
+WDR76	5	Neuroendocrine
+DNAJC6	5	Neuroendocrine
+ASRGL1	5	Neuroendocrine
+DCLK1	5	Neuroendocrine
+GCNT1	5	Neuroendocrine
+CACNA1D	5	Neuroendocrine
+PELI2	5	Neuroendocrine
+PDZD2	5	Neuroendocrine
+SYCP2	5	Neuroendocrine
+PRDM1	5	Neuroendocrine
+TET1	5	Neuroendocrine
+HMX3	5	Neuroendocrine
+SOX5	5	Neuroendocrine
+MYLK	5	Neuroendocrine
+ELAVL2	5	Neuroendocrine
+ZNF367	5	Neuroendocrine
+NRG2	5	Neuroendocrine
+SORBS2	5	Neuroendocrine
+SPSB4	5	Neuroendocrine
+LINGO1	5	Neuroendocrine
+TUBB2B	5	Neuroendocrine
+KSR2	5	Neuroendocrine
+CACNA1C	5	Neuroendocrine
+NDUFAF6	5	Neuroendocrine
+GPR137C	5	Neuroendocrine
+SOX9-AS1	5	Neuroendocrine
+UGT8	5	Neuroendocrine
+LEMD1	5	Neuroendocrine
+SIM2	5	Neuroendocrine
+SOX11	5	Neuroendocrine
+UHRF1	5	Neuroendocrine
+NOVA1	5	Neuroendocrine
+MYRIP	5	Neuroendocrine
+CTXND1	5	Neuroendocrine
+DOCK4	5	Neuroendocrine
+ANKRD36C	5	Neuroendocrine
+FREM2	5	Neuroendocrine
+DRD2	5	Neuroendocrine
+RIMBP2	5	Neuroendocrine
+WDHD1	5	Neuroendocrine
+KIRREL3	5	Neuroendocrine
+NEFH	5	Neuroendocrine
+BICDL1	5	Neuroendocrine
+SNAP25	5	Neuroendocrine
+MELTF	5	Neuroendocrine
+GJC1	5	Neuroendocrine
+AGTR1	5	Neuroendocrine
+ALKAL1	5	Neuroendocrine
+MYO1B	5	Neuroendocrine
+CDKN2A	5	Neuroendocrine
+PHYHIPL	5	Neuroendocrine
+FUT8	5	Neuroendocrine
+ATP8A2	5	Neuroendocrine
+RIPOR2	5	Neuroendocrine
+PHACTR3	5	Neuroendocrine
+SFMBT2	5	Neuroendocrine
+FAM171A1	5	Neuroendocrine
+ARHGAP44	5	Neuroendocrine
+HUNK	5	Neuroendocrine
+DENND2A	5	Neuroendocrine
+ITGB8	5	Neuroendocrine
+TRIM36	5	Neuroendocrine
+OTUD7A	5	Neuroendocrine
+MAPK4	5	Neuroendocrine
+GALR1	5	Neuroendocrine
+SDK2	5	Neuroendocrine
+CLIC5	5	Neuroendocrine
+ANK1	5	Neuroendocrine
+NPTX2	5	Neuroendocrine
+TENM2	5	Neuroendocrine
+ETV5	5	Neuroendocrine
+AP3B2	5	Neuroendocrine
+PGBD5	5	Neuroendocrine
+DENND5B	5	Neuroendocrine
+WSCD1	5	Neuroendocrine
+WASF1	5	Neuroendocrine
+DPP10	5	Neuroendocrine
+SYT11	5	Neuroendocrine
+ST8SIA2	5	Neuroendocrine
+HOXD10	5	Neuroendocrine
+SNCA	5	Neuroendocrine
+PRKAR2B	5	Neuroendocrine
+SMARCA2	5	Neuroendocrine
+FAM124A	5	Neuroendocrine
+AK5	5	Neuroendocrine
+EPB41L4B	5	Neuroendocrine
+SLC16A1-AS1	5	Neuroendocrine
+UNC80	5	Neuroendocrine
+AQP4-AS1	5	Neuroendocrine
+PRKCQ	5	Neuroendocrine
+EFR3B	5	Neuroendocrine
+SMPD3	5	Neuroendocrine
+NUP210	5	Neuroendocrine
+NREP	5	Neuroendocrine
+SCD5	5	Neuroendocrine
+SRRM4	5	Neuroendocrine
+NMNAT2	5	Neuroendocrine
+PLCXD3	5	Neuroendocrine
+RETREG1	5	Neuroendocrine
+ADAM22	5	Neuroendocrine
+MED12L	5	Neuroendocrine
+CFAP54	5	Neuroendocrine
+CHRDL1	5	Neuroendocrine
+MTUS2	5	Neuroendocrine
+PCLAF	5	Neuroendocrine
+MYO3A	5	Neuroendocrine
+NTSR1	5	Neuroendocrine
+RIMS1	5	Neuroendocrine
+PXDN	5	Neuroendocrine
+ZDHHC14	5	Neuroendocrine
+SMC1B	5	Neuroendocrine
+GBX1	5	Neuroendocrine
+LRRIQ1	5	Neuroendocrine
+LRFN2	5	Neuroendocrine
+CGNL1	5	Neuroendocrine
+GNAT3	5	Neuroendocrine
+KHDRBS3	5	Neuroendocrine
+COL9A3	5	Neuroendocrine
+DPY19L2	5	Neuroendocrine
+GLCE	5	Neuroendocrine
+SHISA6	5	Neuroendocrine
+RAB39A	5	Neuroendocrine
+GLYATL2	5	Neuroendocrine
+FAM111B	5	Neuroendocrine
+KCNH1	5	Neuroendocrine
+FAM49A	5	Neuroendocrine
+MBOAT2	5	Neuroendocrine
+MFHAS1	5	Neuroendocrine
+EML5	5	Neuroendocrine
+DMGDH	5	Neuroendocrine
+KCNIP1	5	Neuroendocrine
+PLCL2	5	Neuroendocrine
+PTPRG-AS1	5	Neuroendocrine
+UBA6-AS1	5	Neuroendocrine
+PDZD8	5	Neuroendocrine
+PCOLCE2	5	Neuroendocrine
+AZGP1	5	Neuroendocrine
+PEX5L	5	Neuroendocrine
+NTF3	5	Neuroendocrine
+CNKSR2	5	Neuroendocrine
+CNTNAP3	5	Neuroendocrine
+ANO2	5	Neuroendocrine
+ST6GAL2	5	Neuroendocrine
+TXNDC16	5	Neuroendocrine
+DLG2	5	Neuroendocrine
+MAN1A1	5	Neuroendocrine
+KLHL14	5	Neuroendocrine
+LRRN1	5	Neuroendocrine
+SLIT1	5	Neuroendocrine
+MBNL3	5	Neuroendocrine
+FLT1	5	Neuroendocrine
+C3orf67	5	Neuroendocrine
+CHRM2	5	Neuroendocrine
+B4GALT6	5	Neuroendocrine
+IL19	5	Neuroendocrine
+CNR1	5	Neuroendocrine
+CDON	5	Neuroendocrine
+RAB3C	5	Neuroendocrine
+HFM1	5	Neuroendocrine
+EPCAM-DT	5	Neuroendocrine
+ATL1	5	Neuroendocrine
+FLI1	5	Neuroendocrine
+PROX1-AS1	5	Neuroendocrine
+PXDNL	5	Neuroendocrine
+DCDC1	5	Neuroendocrine
+C3orf70	5	Neuroendocrine
+PRTFDC1	5	Neuroendocrine
+WDR17	5	Neuroendocrine
+MYBPC2	5	Neuroendocrine
+PLXNC1	5	Neuroendocrine
+RFLNA	5	Neuroendocrine
+MSR1	6	Metanephros
+NUFIP2	6	Metanephros
+TACC2	6	Metanephros
+ITPR1	6	Metanephros
+B4GALNT3	6	Metanephros
+TEX41	6	Metanephros
+DISC1FP1	6	Metanephros
+SEMA5A	6	Metanephros
+TLCD1	6	Metanephros
+ZDHHC2	6	Metanephros
+APOD	6	Metanephros
+AGMO	6	Metanephros
+PTPRQ	6	Metanephros
+CST3	6	Metanephros
+BBOX1-AS1	6	Metanephros
+BANK1	6	Metanephros
+PAPPA2	6	Metanephros
+CASC9	6	Metanephros
+NEK8	6	Metanephros
+EFNA5	6	Metanephros
+TTC28	6	Metanephros
+GPC3	6	Metanephros
+ADIPOR2	6	Metanephros
+SYNE1	6	Metanephros
+PTPRR	6	Metanephros
+BTBD16	6	Metanephros
+MCC	6	Metanephros
+SATB1-AS1	6	Metanephros
+PCDH17	6	Metanephros
+IGFBP2	6	Metanephros
+AC009081.1	6	Metanephros
+PCAT1	6	Metanephros
+POU6F2	6	Metanephros
+APBB2	6	Metanephros
+GCH1	6	Metanephros
+CENPP	6	Metanephros
+PSCA	6	Metanephros
+NR3C2	6	Metanephros
+APBB1IP	6	Metanephros
+OAT	6	Metanephros
+FA2H	6	Metanephros
+CRH	6	Metanephros
+IGSF1	6	Metanephros
+VWA5B1	6	Metanephros
+FGF12	6	Metanephros
+HMGCS1	6	Metanephros
+SPOCK3	6	Metanephros
+CDH8	6	Metanephros
+RGS6	6	Metanephros
+NKAIN2	6	Metanephros
+TPRG1	6	Metanephros
+KCNK2	6	Metanephros
+SEMA6A	6	Metanephros
+SYT1	6	Metanephros
+TESC	6	Metanephros
+PURPL	6	Metanephros
+TOX3	6	Metanephros
+FGF13	6	Metanephros
+NINL	6	Metanephros
+POLG2	6	Metanephros
+BHMT	6	Metanephros
+UST	6	Metanephros
+NR4A3	6	Metanephros
+PCDH7	6	Metanephros
+MAN1C1	6	Metanephros
+CPNE8	6	Metanephros
+ABHD3	6	Metanephros
+LAMA2	6	Metanephros
+GPNMB	6	Metanephros
+RDX	6	Metanephros
+ASTL	6	Metanephros
+THBS2	6	Metanephros
+PTPRB	6	Metanephros
+MPPED2	6	Metanephros
+TMEM163	6	Metanephros
+FRAS1	6	Metanephros
+HIST1H2BD	6	Metanephros
+CRPPA	6	Metanephros
+NELL2	6	Metanephros
+THSD7A	6	Metanephros
+MDK	6	Metanephros
+PRX	6	Metanephros
+LRRC23	6	Metanephros
+SCIN	6	Metanephros
+RNF128	6	Metanephros
+SECISBP2	6	Metanephros
+ITPKC	6	Metanephros
+SLCO1A2	6	Metanephros
+CNBD1	6	Metanephros
+ZBTB10	6	Metanephros
+NCALD	6	Metanephros
+TBX20	6	Metanephros
+NPSR1-AS1	6	Metanephros
+EYA4	6	Metanephros
+ZFAND2A	6	Metanephros
+SQLE	6	Metanephros
+HIST1H2BE	6	Metanephros
+GSTM2	6	Metanephros
+PNCK	6	Metanephros
+PIK3R3	6	Metanephros
+ZNF117	6	Metanephros
+SMC5-AS1	6	Metanephros
+SLC9A2	6	Metanephros
+PACRG	6	Metanephros
+SNX31	6	Metanephros
+HIST1H2AC	6	Metanephros
+SLIT2	6	Metanephros
+TNIK	6	Metanephros
+MATN2	6	Metanephros
+HECW1	6	Metanephros
+SLC16A1	6	Metanephros
+SNAP91	6	Metanephros
+ENPEP	6	Metanephros
+TSPAN15	6	Metanephros
+HS6ST2	6	Metanephros
+ACSM6	6	Metanephros
+LIX1-AS1	6	Metanephros
+HYDIN	6	Metanephros
+GLI3	6	Metanephros
+EDA	6	Metanephros
+PARD6G-AS1	6	Metanephros
+STX17-AS1	6	Metanephros
+PRKCB	6	Metanephros
+ZNF676	6	Metanephros
+ME1	6	Metanephros
+CHODL	6	Metanephros
+KCNQ1OT1	6	Metanephros
+SLC26A2	6	Metanephros
+ACOX1	6	Metanephros
+XKR9	6	Metanephros
+FSIP2-AS1	6	Metanephros
+SLCO6A1	6	Metanephros
+SPAG17	6	Metanephros
+AFF2	6	Metanephros
+PM20D1	6	Metanephros
+PTN	6	Metanephros
+PTCHD1-AS	6	Metanephros
+SCUBE2	6	Metanephros
+VTCN1	6	Metanephros
+ANGPTL4	6	Metanephros
+C1S	6	Metanephros
+CSRP2	6	Metanephros
+KBTBD12	6	Metanephros
+IDI1	6	Metanephros
+STS	6	Metanephros
+DTNA	6	Metanephros
+HIST1H4H	6	Metanephros
+NQO1	6	Metanephros
+ANTXR2	6	Metanephros
+AZIN1-AS1	6	Metanephros
+PTGR1	6	Metanephros
+SLC13A3	6	Metanephros
+INSIG1	6	Metanephros
+CASC20	6	Metanephros
+FHL1	6	Metanephros
+SLC26A7	6	Metanephros
+LGR4	6	Metanephros
+STPG4	6	Metanephros
+WNT9A	6	Metanephros
+ITLN2	6	Metanephros
+TEX14	6	Metanephros
+SEMA3A	6	Metanephros
+LIN7A	6	Metanephros
+PID1	6	Metanephros
+CACNB4	6	Metanephros
+HSPA4L	6	Metanephros
+CD83	6	Metanephros
+SERPINF1	6	Metanephros
+TESK2	6	Metanephros
+PARP16	6	Metanephros
+COL28A1	6	Metanephros
+CABYR	6	Metanephros
+TFCP2L1	6	Metanephros
+ADAMTS19	6	Metanephros
+PARM1	6	Metanephros
+ELOVL5	6	Metanephros
+MYRFL	6	Metanephros
+RDH10	6	Metanephros
+TPK1	6	Metanephros
+TAF4B	6	Metanephros
+CFAP47	6	Metanephros
+SYNPR-AS1	6	Metanephros
+PRAP1	6	Metanephros
+SORCS2	6	Metanephros
+PTCHD1	6	Metanephros
+HTR2C	6	Metanephros
+FAM241A	6	Metanephros
+GMNC	6	Metanephros
+UGDH	6	Metanephros
+P3H2	6	Metanephros
+HIST1H2BC	6	Metanephros
+CPEB2	6	Metanephros
+DEPTOR	6	Metanephros
+EXPH5	6	Metanephros
+KITLG	6	Metanephros
+LMNTD1	6	Metanephros
+GABRG2	6	Metanephros
+NR2F2-AS1	6	Metanephros
+MSMO1	6	Metanephros
+OLFM2	6	Metanephros
+HIST1H2BG	6	Metanephros
+IL23A	6	Metanephros
+RDH10-AS1	6	Metanephros
+SOD3	6	Metanephros
+FCGBP	6	Metanephros
+NIM1K	6	Metanephros
+PLPP3	6	Metanephros
+SRPX	6	Metanephros
+ZC3H12B	6	Metanephros
+CCDC192	6	Metanephros
+PDZRN4	6	Metanephros
+CTH	6	Metanephros
+CCBE1	6	Metanephros
+GABBR2	6	Metanephros
+HIST1H2BN	6	Metanephros
+POT1-AS1	6	Metanephros
+TAC1	6	Metanephros
+FAM126A	6	Metanephros
+ZC3H3	6	Metanephros
+SH3KBP1	6	Metanephros
+ST8SIA1	6	Metanephros
+TMEM232	6	Metanephros
+FAM171B	6	Metanephros
+EMC1-AS1	6	Metanephros
+TDO2	6	Metanephros
+CHRNA7	6	Metanephros
+CHIT1	6	Metanephros
+IQSEC3	6	Metanephros
+SLC7A14-AS1	6	Metanephros
+CASR	6	Metanephros
+GPLD1	6	Metanephros
+TAC3	6	Metanephros
+TOP1MT	6	Metanephros
+PLAC1	6	Metanephros
+ACAT1	6	Metanephros
+SAR1B	6	Metanephros
+RCAN3	6	Metanephros
+NPHP3-AS1	6	Metanephros
+GALC	6	Metanephros
+ARMH1	6	Metanephros
+SLC2A6	6	Metanephros
+AC100805.1	6	Metanephros
+RBM15-AS1	6	Metanephros
+TM4SF4	6	Metanephros
+PGM1	6	Metanephros
+CCDC183	6	Metanephros
+MROH8	6	Metanephros
+PICART1	6	Metanephros
+ZCWPW2	6	Metanephros
+METTL5	6	Metanephros
+PGLYRP2	6	Metanephros
+UGT2B15	6	Metanephros
+CENPF	7	Cycling/G2M
+ASPM	7	Cycling/G2M
+MKI67	7	Cycling/G2M
+CIT	7	Cycling/G2M
+TOP2A	7	Cycling/G2M
+NUF2	7	Cycling/G2M
+CENPE	7	Cycling/G2M
+ANLN	7	Cycling/G2M
+ARHGAP11B	7	Cycling/G2M
+KNL1	7	Cycling/G2M
+DIAPH3	7	Cycling/G2M
+NUSAP1	7	Cycling/G2M
+SMC4	7	Cycling/G2M
+KIF11	7	Cycling/G2M
+MYEF2	7	Cycling/G2M
+DEPDC1B	7	Cycling/G2M
+KIF4A	7	Cycling/G2M
+RACGAP1	7	Cycling/G2M
+NCAPG	7	Cycling/G2M
+CEP128	7	Cycling/G2M
+PRC1	7	Cycling/G2M
+GTF3C5	7	Cycling/G2M
+NCAPG2	7	Cycling/G2M
+RGS3	7	Cycling/G2M
+SPC25	7	Cycling/G2M
+MELK	7	Cycling/G2M
+BUB1B	7	Cycling/G2M
+GTSE1	7	Cycling/G2M
+TMPO	7	Cycling/G2M
+KIF15	7	Cycling/G2M
+RRM2	7	Cycling/G2M
+TPX2	7	Cycling/G2M
+APOLD1	7	Cycling/G2M
+KIF14	7	Cycling/G2M
+KIF20B	7	Cycling/G2M
+CKAP5	7	Cycling/G2M
+C21orf58	7	Cycling/G2M
+HIST1H4C	7	Cycling/G2M
+POLQ	7	Cycling/G2M
+PRR11	7	Cycling/G2M
+CCDC88A	7	Cycling/G2M
+NDC80	7	Cycling/G2M
+HMGB2	7	Cycling/G2M
+MIS18BP1	7	Cycling/G2M
+ATAD2	7	Cycling/G2M
+SGO2	7	Cycling/G2M
+KIF18B	7	Cycling/G2M
+FANCI	7	Cycling/G2M
+PARPBP	7	Cycling/G2M
+ARHGAP11A	7	Cycling/G2M
+IQGAP3	7	Cycling/G2M
+CDK1	7	Cycling/G2M
+ECT2	7	Cycling/G2M
+MYBL1	7	Cycling/G2M
+AURKB	7	Cycling/G2M
+TNFSF8	7	Cycling/G2M
+CCDC150	7	Cycling/G2M
+RTKN2	7	Cycling/G2M
+CDC25C	7	Cycling/G2M
+DLGAP5	7	Cycling/G2M
+ATAD5	7	Cycling/G2M
+CENPI	7	Cycling/G2M
+DNA2	7	Cycling/G2M
+WDPCP	7	Cycling/G2M
+BLM	7	Cycling/G2M
+GANC	7	Cycling/G2M
+CCNB1	7	Cycling/G2M
+NCAPH	7	Cycling/G2M
+NEURL1B	7	Cycling/G2M
+SGO1	7	Cycling/G2M
+CIP2A	7	Cycling/G2M
+G2E3	7	Cycling/G2M
+CDCA8	7	Cycling/G2M
+ZNF519	7	Cycling/G2M
+DEPDC1	7	Cycling/G2M
+NMU	7	Cycling/G2M
+BUB1	7	Cycling/G2M
+PIF1	7	Cycling/G2M
+KIF18A	7	Cycling/G2M
+KIF24	7	Cycling/G2M
+TRAF3IP2-AS1	7	Cycling/G2M
+STIL	7	Cycling/G2M
+TACC3	7	Cycling/G2M
+RTTN	7	Cycling/G2M
+NEK2	7	Cycling/G2M
+KIF2C	7	Cycling/G2M
+HELLPAR	7	Cycling/G2M
+SLC4A8	7	Cycling/G2M
+TTK	7	Cycling/G2M
+CKAP2L	7	Cycling/G2M
+CEP152	7	Cycling/G2M
+HIST1H2BJ	7	Cycling/G2M
+UBE2C	7	Cycling/G2M
+GAS2L3	7	Cycling/G2M
+EXO1	7	Cycling/G2M
+VRK1	7	Cycling/G2M
+GSTCD	7	Cycling/G2M
+CKAP2	7	Cycling/G2M
+HMMR	7	Cycling/G2M
+SCG5	7	Cycling/G2M
+USP13	7	Cycling/G2M
+OLFM3	7	Cycling/G2M
+KIF23	7	Cycling/G2M
+TSHZ1	7	Cycling/G2M
+CEP55	7	Cycling/G2M
+CDCA2	7	Cycling/G2M
+HIST1H3B	7	Cycling/G2M
+BIRC5	7	Cycling/G2M
+FAM83D	7	Cycling/G2M
+RAD18	7	Cycling/G2M
+PDCL2	7	Cycling/G2M
+LIN9	7	Cycling/G2M
+FANCD2	7	Cycling/G2M
+NEIL3	7	Cycling/G2M
+C1orf112	7	Cycling/G2M
+SHCBP1	7	Cycling/G2M
+NWD2	7	Cycling/G2M
+ZBTB16	8	Interferon signaling
+RNF213	8	Interferon signaling
+B2M	8	Interferon signaling
+LDLRAD4	8	Interferon signaling
+EGLN3	8	Interferon signaling
+IFI27	8	Interferon signaling
+MAGI2	8	Interferon signaling
+SPINK1	8	Interferon signaling
+SST	8	Interferon signaling
+ACOXL	8	Interferon signaling
+CYP1A1	8	Interferon signaling
+CP	8	Interferon signaling
+DPYD	8	Interferon signaling
+CNTN3	8	Interferon signaling
+IFI6	8	Interferon signaling
+BCAS1	8	Interferon signaling
+SYT8	8	Interferon signaling
+TNNT3	8	Interferon signaling
+TSHZ2	8	Interferon signaling
+IFI44L	8	Interferon signaling
+HS6ST3	8	Interferon signaling
+NRXN3	8	Interferon signaling
+APOL1	8	Interferon signaling
+RHEX	8	Interferon signaling
+PAX8	8	Interferon signaling
+BRINP1	8	Interferon signaling
+C3	8	Interferon signaling
+CD74	8	Interferon signaling
+AQP3	8	Interferon signaling
+SLPI	8	Interferon signaling
+MX2	8	Interferon signaling
+PDE10A	8	Interferon signaling
+NAALADL2	8	Interferon signaling
+LIPC	8	Interferon signaling
+ADAMTS9-AS2	8	Interferon signaling
+SPAG16	8	Interferon signaling
+CAPN8	8	Interferon signaling
+AGR2	8	Interferon signaling
+GPR157	8	Interferon signaling
+EPSTI1	8	Interferon signaling
+PIEZO2	8	Interferon signaling
+ZNF331	8	Interferon signaling
+STARD13	8	Interferon signaling
+TNFSF10	8	Interferon signaling
+WFDC2	8	Interferon signaling
+LCN2	8	Interferon signaling
+ADGRF1	8	Interferon signaling
+ZNF208	8	Interferon signaling
+DLC1	8	Interferon signaling
+ZBTB7C	8	Interferon signaling
+EPAS1	8	Interferon signaling
+LSAMP	8	Interferon signaling
+RAB31	8	Interferon signaling
+KLHDC7B	8	Interferon signaling
+WARS	8	Interferon signaling
+NAV3	8	Interferon signaling
+CLU	8	Interferon signaling
+ROR1	8	Interferon signaling
+PAX8-AS1	8	Interferon signaling
+LMO3	8	Interferon signaling
+MYBPC1	8	Interferon signaling
+THRB	8	Interferon signaling
+FGD5	8	Interferon signaling
+BIRC3	8	Interferon signaling
+PRMT9	8	Interferon signaling
+GPR78	8	Interferon signaling
+NOS2	8	Interferon signaling
+CRISP3	8	Interferon signaling
+DUOX2	8	Interferon signaling
+RMST	8	Interferon signaling
+ATF7IP2	8	Interferon signaling
+PIGR	8	Interferon signaling
+PLAT	8	Interferon signaling
+GBP4	8	Interferon signaling
+DDX60	8	Interferon signaling
+HTR7	8	Interferon signaling
+RAI2	8	Interferon signaling
+UGT2B7	8	Interferon signaling
+HLA-DRB5	8	Interferon signaling
+GLIS3	8	Interferon signaling
+NTN4	8	Interferon signaling
+GALNT13	8	Interferon signaling
+TMTC1	8	Interferon signaling
+H19	8	Interferon signaling
+CCDC198	8	Interferon signaling
+ZC3HAV1	8	Interferon signaling
+DUOXA2	8	Interferon signaling
+DNAH5	8	Interferon signaling
+AR	8	Interferon signaling
+GLDC	8	Interferon signaling
+JDP2	8	Interferon signaling
+LONRF3	8	Interferon signaling
+APOL4	8	Interferon signaling
+WWTR1	8	Interferon signaling
+TACC1	8	Interferon signaling
+CFB	8	Interferon signaling
+ICAM1	8	Interferon signaling
+CEP112	8	Interferon signaling
+CCL15	8	Interferon signaling
+PALLD	8	Interferon signaling
+CMYA5	8	Interferon signaling
+ESRRG	8	Interferon signaling
+ZC3H12C	8	Interferon signaling
+ACSS3	8	Interferon signaling
+AIM2	8	Interferon signaling
+TNFRSF10D	8	Interferon signaling
+PLEKHH2	8	Interferon signaling
+SLC7A2	8	Interferon signaling
+SYTL5	8	Interferon signaling
+ADAMTS1	8	Interferon signaling
+RASGRP3	8	Interferon signaling
+LAMA3	8	Interferon signaling
+SAMD9	8	Interferon signaling
+GPRIN3	8	Interferon signaling
+SLC9A9	8	Interferon signaling
+IDO1	8	Interferon signaling
+PDGFD	8	Interferon signaling
+RNF152	8	Interferon signaling
+MB21D2	8	Interferon signaling
+PRKN	8	Interferon signaling
+ADD3	8	Interferon signaling
+CREB3L1	8	Interferon signaling
+TRPC6	8	Interferon signaling
+IFIT3	8	Interferon signaling
+CA3	8	Interferon signaling
+SAMD12-AS1	8	Interferon signaling
+SMIM31	8	Interferon signaling
+ZNF503-AS1	8	Interferon signaling
+LRCH2	8	Interferon signaling
+SHROOM4	8	Interferon signaling
+STPG2	8	Interferon signaling
+CFAP161	8	Interferon signaling
+SAA2	8	Interferon signaling
+PDZK1IP1	8	Interferon signaling
+STAC	8	Interferon signaling
+RSAD2	8	Interferon signaling
+SAA1	8	Interferon signaling
+CYP1B1	8	Interferon signaling
+SNX24	8	Interferon signaling
+HS3ST2	8	Interferon signaling
+VWDE	8	Interferon signaling
+PLCL1	8	Interferon signaling
+GALNT5	8	Interferon signaling
+VLDLR-AS1	8	Interferon signaling
+CCHCR1	8	Interferon signaling
+RNLS	8	Interferon signaling
+SERPINB4	8	Interferon signaling
+SYT9	8	Interferon signaling
+FAT4	8	Interferon signaling
+STXBP5-AS1	8	Interferon signaling
+C8orf37-AS1	8	Interferon signaling
+FLVCR2	8	Interferon signaling
+SUCLG2-AS1	8	Interferon signaling
+CCDC148	8	Interferon signaling
+VWC2L	8	Interferon signaling
+PKIB	8	Interferon signaling
+SAA4	8	Interferon signaling
+TAFA1	8	Interferon signaling
+BDNF-AS	8	Interferon signaling
+IFIH1	8	Interferon signaling
+GPAT3	8	Interferon signaling
+CXCL10	8	Interferon signaling
+IFIT2	8	Interferon signaling
+TMC5	9	Secretion
+ARHGEF28	9	Secretion
+GPRC5D-AS1	9	Secretion
+RASSF5	9	Secretion
+FUT9	9	Secretion
+SGMS2	9	Secretion
+PRSS21	9	Secretion
+SLC6A11	9	Secretion
+PNMA5	9	Secretion
+MUC1	9	Secretion
+SLC45A4	9	Secretion
+IRAK2	9	Secretion
+CAMK2N1	9	Secretion
+BCAT1	9	Secretion
+GJA1	9	Secretion
+XPR1	9	Secretion
+ARL5B	9	Secretion
+PRKD1	9	Secretion
+KRT86	9	Secretion
+CYP4F8	9	Secretion
+ARHGAP42	9	Secretion
+SRGAP3	9	Secretion
+SLC25A44	9	Secretion
+ANKFN1	9	Secretion
+PKHD1	9	Secretion
+TCN1	9	Secretion
+PKD1L1	9	Secretion
+CXCL17	9	Secretion
+NCEH1	9	Secretion
+CLDN3	9	Secretion
+PPM1N	9	Secretion
+FBXL18	9	Secretion
+PDE4C	9	Secretion
+MMP13	9	Secretion
+CRIM1	9	Secretion
+HLA-DQA2	9	Secretion
+AHNAK2	9	Secretion
+CDH26	9	Secretion
+TGFA	9	Secretion
+ATP6V0A4	9	Secretion
+HOMER1	9	Secretion
+ITGAM	9	Secretion
+LDLR	9	Secretion
+PSORS1C2	9	Secretion
+PER3	9	Secretion
+SLC24A2	9	Secretion
+PADI1	9	Secretion
+PDE7B	9	Secretion
+CLEC2B	9	Secretion
+PDK4	9	Secretion
+TRIT1	9	Secretion
+PCSK6	9	Secretion
+MMP7	9	Secretion
+SNX27	9	Secretion
+GIMAP8	9	Secretion
+RAB44	9	Secretion
+NR1H4	9	Secretion
+KRT16	9	Secretion
+HILPDA	9	Secretion
+HIPK4	9	Secretion
+TMEM72-AS1	9	Secretion
+MYCNUT	9	Secretion
+GPR1-AS	9	Secretion
+ABCA1	9	Secretion
+TRIM72	9	Secretion
+PLCH1	9	Secretion
+GAS2	9	Secretion
+PPP1R36	9	Secretion
+ANO1	9	Secretion
+SLC10A6	9	Secretion
+ITGBL1	9	Secretion
+C15orf48	9	Secretion
+C4orf47	9	Secretion
+CRISPLD2	9	Secretion
+HSD11B1-AS1	9	Secretion
+CORIN	9	Secretion
+GRAMD2A	9	Secretion
+DKK4	9	Secretion
+NT5DC4	9	Secretion
+HSD11B1	9	Secretion
+CCDC60	9	Secretion
+ACSBG1	9	Secretion
+SVOPL	9	Secretion
+STC2	9	Secretion
+TSPAN12	9	Secretion
+ADGRF2	9	Secretion
+ARSI	9	Secretion
+CCDC190	9	Secretion
+RASSF3	9	Secretion
+MYOM1	9	Secretion
+CEMIP	9	Secretion
+TMC1	9	Secretion
+TMEM164	9	Secretion
+LIN28B	9	Secretion
+DNAH12	9	Secretion
+SFTPA2	9	Secretion
+TMPRSS9	9	Secretion
+CCN4	9	Secretion
+TMEM269	9	Secretion
+UPB1	9	Secretion
+KRT79	9	Secretion
+NEFM	9	Secretion
+S100Z	9	Secretion
+PRPS2	9	Secretion
+C5AR1	9	Secretion
+PADI4	9	Secretion
+MOV10L1	9	Secretion
+MOBP	9	Secretion
+GPR1	9	Secretion
+MEG3	10	Stress
+MEG8	10	Stress
+MTRNR2L1	10	Stress
+NLGN4Y	10	Stress
+UPK3BL1	10	Stress
+CLDN4	10	Stress
+RHOBTB2	10	Stress
+MIR205HG	10	Stress
+FABP4	10	Stress
+UTY	10	Stress
+LRRFIP1	10	Stress
+KRT17	10	Stress
+RAD51B	10	Stress
+DLEU1	10	Stress
+HSPA1A	10	Stress
+DDX3Y	10	Stress
+ZFPM2-AS1	10	Stress
+COL4A6	10	Stress
+COL4A5	10	Stress
+GDF15	10	Stress
+SELENOP	10	Stress
+KRT15	10	Stress
+GPRC5A	10	Stress
+IQCJ-SCHIP1	10	Stress
+FXYD3	10	Stress
+RTL1	10	Stress
+TRIM31	10	Stress
+TSPAN1	10	Stress
+TTTY14	10	Stress
+NEDD9	10	Stress
+DLEU7	10	Stress
+TRIM31-AS1	10	Stress
+CRTAC1	10	Stress
+CYP4B1	10	Stress
+TP63	10	Stress
+USP9Y	10	Stress
+NDFIP2	10	Stress
+CA12	10	Stress
+DENND2C	10	Stress
+FHAD1	10	Stress
+DAAM2	10	Stress
+EMP1	10	Stress
+CLCA4	10	Stress
+FAT1	10	Stress
+MAP3K8	10	Stress
+THSD4	10	Stress
+GPX2	10	Stress
+MROH2A	10	Stress
+CECR2	10	Stress
+GSTM3	10	Stress
+ADAMTS16	10	Stress
+IL1A	10	Stress
+GDA	10	Stress
+ZFPM2	10	Stress
+AKR1C1	10	Stress
+LAMB1	10	Stress
+EIF2AK3	10	Stress
+BAG3	10	Stress
+USP18	10	Stress
+EDN1	10	Stress
+AKR1C2	10	Stress
+EGFR	10	Stress
+FGFR2	10	Stress
+RAI14	10	Stress
+TNFRSF21	10	Stress
+SAMD5	10	Stress
+HMGCS2	10	Stress
+RNF19A	10	Stress
+TIMP3	10	Stress
+CRCT1	10	Stress
+FBLN1	10	Stress
+LMO7	10	Stress
+FHOD3	10	Stress
+AKR1C3	10	Stress
+PLAU	10	Stress
+SPINK5	10	Stress
+TBL1Y	10	Stress
+CYP24A1	10	Stress
+PADI3	10	Stress
+ADGRL4	10	Stress
+AREG	10	Stress
+ARL14	10	Stress
+SERPINB5	10	Stress
+IL1RN	10	Stress
+NXN	10	Stress
+UCA1	10	Stress
+SLC23A2	10	Stress
+PPP2R2B	10	Stress
+SH3RF2	10	Stress
+CLDN1	10	Stress
+MMP12	10	Stress
+SESN3	10	Stress
+HIVEP3	10	Stress
+RIPK2	10	Stress
+MSMB	10	Stress
+SLC7A11	10	Stress
+ABCB11	10	Stress
+GCLC	10	Stress
+LPAR3	10	Stress
+KLHL13	10	Stress
+MMP28	10	Stress
+HSPA6	10	Stress
+ALDH1A3	10	Stress
+HS3ST1	10	Stress
+ADAMTS15	10	Stress
+CACNA2D3	10	Stress
+TCIM	10	Stress
+THBS1	10	Stress
+GATA6	10	Stress
+GSTM1	10	Stress
+NOS1AP	10	Stress
+CDYL2	10	Stress
+OSBPL10	10	Stress
+FOXN2	10	Stress
+SERPINE1	10	Stress
+PELI1	10	Stress
+BTBD11	10	Stress
+CAPN14	10	Stress
+TFPI2	10	Stress
+CA2	10	Stress
+IL1B	10	Stress
+EHD3	10	Stress
+CHST8	10	Stress
+GLA	10	Stress
+FRK	10	Stress
+ZSCAN31	10	Stress
+CLCA4-AS1	10	Stress
+BNIP5	10	Stress
+CLMP	10	Stress
+TNFSF15	10	Stress
+MUC5AC	10	Stress
+COL17A1	11	Partial epithelial-mesenchymal transition
+NDRG1	11	Partial epithelial-mesenchymal transition
+SFN	11	Partial epithelial-mesenchymal transition
+NRG1	11	Partial epithelial-mesenchymal transition
+RAF1	11	Partial epithelial-mesenchymal transition
+KRT14	11	Partial epithelial-mesenchymal transition
+KRT5	11	Partial epithelial-mesenchymal transition
+LAMC2	11	Partial epithelial-mesenchymal transition
+VGLL4	11	Partial epithelial-mesenchymal transition
+IQSEC1	11	Partial epithelial-mesenchymal transition
+COL5A1	11	Partial epithelial-mesenchymal transition
+CAV1	11	Partial epithelial-mesenchymal transition
+TGFBI	11	Partial epithelial-mesenchymal transition
+F3	11	Partial epithelial-mesenchymal transition
+BNC1	11	Partial epithelial-mesenchymal transition
+MT2A	11	Partial epithelial-mesenchymal transition
+PTHLH	11	Partial epithelial-mesenchymal transition
+AL353740.1	11	Partial epithelial-mesenchymal transition
+VSTM2L	11	Partial epithelial-mesenchymal transition
+HEPHL1	11	Partial epithelial-mesenchymal transition
+SLC1A6	11	Partial epithelial-mesenchymal transition
+CALML5	11	Partial epithelial-mesenchymal transition
+HLA-G	11	Partial epithelial-mesenchymal transition
+CDKN2B	11	Partial epithelial-mesenchymal transition
+MSLN	11	Partial epithelial-mesenchymal transition
+FST	11	Partial epithelial-mesenchymal transition
+CAND2	11	Partial epithelial-mesenchymal transition
+FKBP5	11	Partial epithelial-mesenchymal transition
+FLRT2	11	Partial epithelial-mesenchymal transition
+STXBP6	11	Partial epithelial-mesenchymal transition
+PPP2R2C	11	Partial epithelial-mesenchymal transition
+MUC16	11	Partial epithelial-mesenchymal transition
+TUBB6	11	Partial epithelial-mesenchymal transition
+ITGA5	11	Partial epithelial-mesenchymal transition
+SERPINB2	11	Partial epithelial-mesenchymal transition
+COLEC12	11	Partial epithelial-mesenchymal transition
+TMCC3	11	Partial epithelial-mesenchymal transition
+CD109	11	Partial epithelial-mesenchymal transition
+GALNT18	11	Partial epithelial-mesenchymal transition
+CALB2	11	Partial epithelial-mesenchymal transition
+CASP14	11	Partial epithelial-mesenchymal transition
+CITED4	11	Partial epithelial-mesenchymal transition
+VEGFC	11	Partial epithelial-mesenchymal transition
+CXCL14	11	Partial epithelial-mesenchymal transition
+CSF3R	11	Partial epithelial-mesenchymal transition
+HAS2	11	Partial epithelial-mesenchymal transition
+FGFBP1	11	Partial epithelial-mesenchymal transition
+SLAMF7	11	Partial epithelial-mesenchymal transition
+MYO16-AS1	11	Partial epithelial-mesenchymal transition
+SLC47A2	11	Partial epithelial-mesenchymal transition
+GJA5	11	Partial epithelial-mesenchymal transition
+ALPP	11	Partial epithelial-mesenchymal transition
+KL	11	Partial epithelial-mesenchymal transition
+SERPINB7	11	Partial epithelial-mesenchymal transition
+MEI1	11	Partial epithelial-mesenchymal transition
+CSF2	11	Partial epithelial-mesenchymal transition
+RXFP1	11	Partial epithelial-mesenchymal transition
+KLK5	11	Partial epithelial-mesenchymal transition
+MS4A15	11	Partial epithelial-mesenchymal transition
+TM4SF19	11	Partial epithelial-mesenchymal transition
+IGFL2-AS1	11	Partial epithelial-mesenchymal transition
+KLK7	11	Partial epithelial-mesenchymal transition
+SERPINB9	11	Partial epithelial-mesenchymal transition
+ZNF114	11	Partial epithelial-mesenchymal transition
+FAP	11	Partial epithelial-mesenchymal transition
+TRIML2	11	Partial epithelial-mesenchymal transition
+SLCO2B1	11	Partial epithelial-mesenchymal transition
+RGS20	11	Partial epithelial-mesenchymal transition
+KLK6	11	Partial epithelial-mesenchymal transition
+HAS2-AS1	11	Partial epithelial-mesenchymal transition
+TLL1	11	Partial epithelial-mesenchymal transition
+KRT81	11	Partial epithelial-mesenchymal transition
+APOB	11	Partial epithelial-mesenchymal transition
+KRT6C	11	Partial epithelial-mesenchymal transition
+HKDC1	11	Partial epithelial-mesenchymal transition
+MFAP5	11	Partial epithelial-mesenchymal transition
+JCAD	11	Partial epithelial-mesenchymal transition
+ECM1	11	Partial epithelial-mesenchymal transition
+CST6	11	Partial epithelial-mesenchymal transition
+CD274	11	Partial epithelial-mesenchymal transition
+INSL4	11	Partial epithelial-mesenchymal transition
+IGFL1	11	Partial epithelial-mesenchymal transition
+SLC34A2	11	Partial epithelial-mesenchymal transition
+ANPEP	11	Partial epithelial-mesenchymal transition
+PSG11	11	Partial epithelial-mesenchymal transition
+ALPG	11	Partial epithelial-mesenchymal transition
+LRP2	11	Partial epithelial-mesenchymal transition
+TRIB3	11	Partial epithelial-mesenchymal transition

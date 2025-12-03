@@ -1,0 +1,268 @@
+Naive	Cytotoxicity	Treg	Exhaustion	IFN_signaling	Cytokine	Chemokine	Costimulatory_molecules	Oxidative_phosphorylation	Glycolysis	Lipid_metabolism	TCR_signaling	JAK-STAT_signaling	MAPK_signaling	NFKB_signaling	Neoantigen-reactive
+IL7R	GZMA	FOXP3	PDCD1	STAT1	CSF1	CCR4	TNFRSF25	ATP1B1	SLC2A3	ABHD3	CALM1	AKT3	AKT1	CHUK	CXCL13
+CCR7	GZMB	IKZF2	LAYN	STAT3	CSF2	CCR5	TNFRSF1B	ATP1B3	SLC16A1	ACADVL	CALM2	SPRY3	AKT2	FADD	HMOX1
+SELL	GZMH	IKZF4	HAVCR2	MX1	ADAM19	CCR6	TNFRSF4	ATP2B1	PFKFB3	ACOT9	CALM3	SPRY1	AKT3	IKBKB	ETV7
+FOXP1	GZMK	IL2RA	LAG3	IRF1	ADAM8	CCR7	TNFRSF9	ATP2B4	ALDOA	AHR	CD4	SPRY2	ARRB1	IKBKG	ADGRG1
+KLF2	GZMM	ENTPD1	CTLA4	ISG15	ADAM12	CCR8	TNFRSF18	ATP5A1	TPI1	ALOX5AP	CAST	STAM2	ARRB2	IL1A	PDCD1
+KLF3	GNLY	CCR4	TIGIT	ISG20	CD70	CXCR3	CD27	ATP5B	GAPDH	AP2M1	CD247	IRF9	ATF2	IL1R1	ENTPD1
+LEF1	PRF1	ICOS	TOX	IFITM1	IL12RB2	CXCR4	CD28	ATP5C1	PGK1	AP2S1	CD3D	PIAS3	ATF4	MAP3K1	CCDC50
+TCF7	IFNG	IL10RA	VSIR	IFITM2	IL17A	CXCR5	CD44	ATP5D	PGAM1	APOBEC3C	CD3E	IL24	BDNF	MAP3K14	TOX
+ACTN1	TNF	TGFB1	BTLA	IFITM3	IL17F	CXCR6	CD48	ATP5E	ENO1	APOBEC3G	CD3G	CISH	BRAF	MAP3K7	CD4
+BTG1	SERPINB9	TIGIT	ENTPD1	OAS1	IL10RA	CCL3	ICOS	ATP5F1	PKM	APOBEC3H	CSK	IL22RA2	CACNA1A	MYD88	TIGIT
+BTG2	CTSA	CTLA4		OAS2	IL1R1	CCL4	CD2	ATP5F1A	LDHA	APOL6	DOK2	SOCS4	CACNA1B	NFKB1	TNFRSF18
+TOB1	CTSB	LAG3		OASL	IL1R2	CCL5	SLAMF1	ATP5F1B	LDHB	ARF1	FYN	CNTF	CACNA1C	NFKBIA	NMB
+	CTSC	HAVCR2		SOCS1	IL21R	CCL20	CD40LG	ATP5F1C	GYG1	ARF5	LCK	CNTFR	CACNA1D	RELA	MYL6B
+	CTSD	PDCD1		SOCS3	IL21	CXCL13	CD84	ATP5F1D	GPI	ARNTL	NFATC1	CREBBP	CACNA1E	RIPK1	AHI1
+	CTSH			TRIM22	IL26	CXCL8		ATP5F1E	UGP2	B3GALT2	NFATC2	CSF2	CACNA1F	TAB1	MAF
+	CTSW			APOL6	IL2RA	XCL1		ATP5G1	UBB	B4GALT1	PLEK	CSF2RA	CACNA1G	TNF	IFNG
+	CST7			IFNAR2	IL2RB			ATP5G2	UBC	CAV1	PTPN11	CSF2RB	CACNA1H	TNFAIP3	LAG3
+	CAPN2			IFNGR1	IL2RG			ATP5G3		CDIPT	PTPN13	CSF3	CACNA1I	TNFRSF1A	CXCR6
+	PLEK			GBP1	IL32			ATP5H		CERK	PTPN2	CSF3R	CACNA1S	TNFRSF1B	IGFLR1
+				GBP2	IL6R			ATP5I		CLTA	PTPN22	CSH1	CACNA2D1	TRADD	DUSP4
+				GBP4	TGFB1			ATP5IF1		CPNE7	PTPN4	CTF1	CACNA2D2	TRAF6	ACP5
+				GBP5	TGFBR2			ATP5J		ELOVL1	PTPN6	IL23R	CACNA2D3		LINC01943
+				BST2	TGFBR3			ATP5J2		ELOVL5	PTPN7	SPRED1	CACNA2D4		LIMS1
+				IFI16				ATP5MG		DBI	PTPRC	IFNLR1	CACNB1		BATF
+				IFI35				ATP5MC2		EPHX2	PTPRCAP	SPRED2	CACNB2		PCED1B
+				IFI44L				ATP5MC3		FABP5	S100A10	EP300	CACNB3		ITGAL
+				IFI6				ATP5MD		FURIN	S100A11	EPO	CACNB4		YPEL2
+				PARP8				ATP5MF		GDE1	S100A4	EPOR	CACNG1		MAL
+				PARP9				ATP5MG		GK	S100A6	AKT1	CACNG2		PPT1
+								ATP5MPL		GPX1	ZAP70	AKT2	CACNG3		ELMO1
+								ATP5O		GPX4	DUSP1	CLCF1	CACNG4		MIS18BP1
+								ATP5PB		HDLBP	DUSP2	PIK3R5	CACNG5		TMEM173
+								ATP5PD		IDH2	DUSP4	CBLC	CACNG6		ADI1
+								ATP5PF		IDI1	DUSP16	GH1	CACNG7		SLA
+								ATP6V0B		HPGD	LAT	GH2	CACNG8		GALM
+								ATP6V0C		INPP4B	FOS	GHR	CASP3		LBH
+								ATPIF1		INPP5D	FOSB	IFNL2	CD14		SECISBP2L
+								COX16		INPP5F	FOSL2	IFNL3	CDC25B		CTSB
+								COX17		INSIG1	JUN	IFNL1	CDC42		C17orf49
+								COX5A		KDSR	JUNB	GRB2	CHP1		CORO1B
+								COX6A1		LDLRAP1	JUND	IL19	CHP2		
+								COX6C		LPCAT1	NR4A1	SOCS7	CHUK		
+								COX8A		MFSD2A	NR4A2	IFNE	CRK		
+								MT-ATP6		NCOA3	BATF	IFNA1	CRKL		
+								MT-ATP8		NDUFAB1	IRF1	IFNA2	DAXX		
+								MT-CO1		NEU1	SH2D1A	IFNA4	DDIT3		
+								MT-CO3		NPC2	SH2D2A	IFNA5	DUSP1		
+								MT-CYB		NUDT7	MAP2K3	IFNA6	DUSP10		
+								MT-ND1		P4HB	MAP3K4	IFNA7	DUSP14		
+								MT-ND2		PLA2G16	MAP3K8	IFNA8	DUSP16		
+								MT-ND3		PLIN2	MAP4K1	IFNA10	DUSP2		
+								MT-ND4		PPP1CA	NFKB2	IFNA13	DUSP3		
+								MT-ND4L		PPP1CB	NFKBIA	IFNA14	DUSP4		
+								MT.CO1		PPP1CC	NFKBIZ	IFNA16	DUSP5		
+								MT.CO2		PTGES3	REL	IFNA17	DUSP6		
+								MT.CO3		SAR1B	RELB	IFNA21	DUSP7		
+								MT.CYB		SARDH		IFNAR1	DUSP8		
+								MT.ND1		SC5D		IFNAR2	DUSP9		
+								MT.ND2		SGMS1		IFNB1	ECSIT		
+								MT.ND3		SH3KBP1		IFNG	EGF		
+								MT.ND4		SREBF2		IFNGR1	EGFR		
+								MT.ND5		STARD7		IFNGR2	ELK1		
+								NDUFA13		TNFAIP8		IFNW1	ELK4		
+								NDUFA6				IL2	FAS		
+								NDUFB2				IL2RA	FASLG		
+								NDUFC1				IL2RB	FGF1		
+								NDUFV2				IL2RG	FGF10		
+								UQCR10				IL3	FGF11		
+								UQCR11				IL3RA	FGF12		
+								UQCR11.1				IL4	FGF13		
+								UQCRB				IL4R	FGF14		
+								UQCRC2				IL5	FGF16		
+								UQCRHL				IL5RA	FGF17		
+								SURF4				IL6	FGF18		
+								CYCS				IL6R	FGF19		
+								ISCU				IL6ST	FGF2		
+								MTCH1				IL7	FGF20		
+												IL7R	FGF21		
+												IL9	FGF22		
+												IL9R	FGF23		
+												IL10	FGF3		
+												IL10RA	FGF4		
+												IL10RB	FGF5		
+												IL11	FGF6		
+												IL11RA	FGF7		
+												IL12A	FGF8		
+												IL12B	FGF9		
+												IL12RB1	FGFR1		
+												IL12RB2	FGFR2		
+												IL13	FGFR3		
+												IL13RA1	FGFR4		
+												IL13RA2	FLNA		
+												IL15	FLNB		
+												IL15RA	FLNC		
+												JAK1	FOS		
+												JAK2	GADD45A		
+												JAK3	GADD45B		
+												LEP	GADD45G		
+												LEPR	GNA12		
+												LIF	GNG12		
+												LIFR	GRB2		
+												MPL	HRAS		
+												MYC	HSPA1A		
+												OSM	HSPA1B		
+												IL20	HSPA1L		
+												IL21R	HSPA2		
+												IL22	HSPA6		
+												IL23A	HSPA8		
+												PIAS4	HSPB1		
+												PIK3CA	IKBKB		
+												PIK3CB	IKBKG		
+												PIM1	IL1A		
+												PIK3CD	IL1B		
+												PIK3CG	IL1R1		
+												PIK3R1	IL1R2		
+												PIK3R2	JMJD7-PLA2G4B		
+												IL20RA	JUN		
+												IL20RB	JUND		
+												IL26	KRAS		
+												PRL	LAMTOR3		
+												PRLR	MAP2K1		
+												IFNK	MAP2K2		
+												PTPN6	MAP2K3		
+												PTPN11	MAP2K4		
+												IL22RA1	MAP2K5		
+												IL21	MAP2K6		
+												CCND1	MAP2K7		
+												BCL2L1	MAP3K1		
+												CRLF2	MAP3K11		
+												SOS1	MAP3K12		
+												SOS2	MAP3K13		
+												STAT1	MAP3K14		
+												STAT2	MAP3K2		
+												STAT3	MAP3K20		
+												STAT4	MAP3K3		
+												STAT5A	MAP3K4		
+												STAT5B	MAP3K5		
+												STAT6	MAP3K6		
+												TPO	MAP3K7		
+												TYK2	MAP3K8		
+												STAM	MAP4K1		
+												SPRY4	MAP4K2		
+												PIK3R3	MAP4K3		
+												TSLP	MAP4K4		
+												PIAS1	MAPK1		
+												SOCS1	MAPK10		
+												CBL	MAPK11		
+												CBLB	MAPK12		
+												SOCS2	MAPK13		
+												CCND2	MAPK14		
+												CCND3	MAPK3		
+												SOCS3	MAPK7		
+												PIAS2	MAPK8		
+												OSMR	MAPK8IP1		
+												SOCS5	MAPK8IP2		
+													MAPK8IP3		
+													MAPK9		
+													MAPKAPK2		
+													MAPKAPK3		
+													MAPKAPK5		
+													MAPT		
+													MAX		
+													MECOM		
+													MEF2C		
+													MKNK1		
+													MKNK2		
+													MOS		
+													MRAS		
+													MYC		
+													NF1		
+													NFATC2		
+													NFATC4		
+													NFKB1		
+													NFKB2		
+													NGF		
+													NLK		
+													NR4A1		
+													NRAS		
+													NTF3		
+													NTF4		
+													NTRK1		
+													NTRK2		
+													PAK1		
+													PAK2		
+													PDGFA		
+													PDGFB		
+													PDGFRA		
+													PDGFRB		
+													PLA2G10		
+													PLA2G12A		
+													PLA2G12B		
+													PLA2G1B		
+													PLA2G2A		
+													PLA2G2C		
+													PLA2G2D		
+													PLA2G2E		
+													PLA2G2F		
+													PLA2G3		
+													PLA2G4A		
+													PLA2G4B		
+													PLA2G4E		
+													PLA2G5		
+													PLA2G6		
+													PPM1A		
+													PPM1B		
+													PPP3CA		
+													PPP3CB		
+													PPP3CC		
+													PPP3R1		
+													PPP3R2		
+													PPP5C		
+													PRKACA		
+													PRKACB		
+													PRKACG		
+													PRKCA		
+													PRKCB		
+													PRKCG		
+													PRKX		
+													PTPN5		
+													PTPN7		
+													PTPRR		
+													RAC1		
+													RAC2		
+													RAC3		
+													RAF1		
+													RAP1A		
+													RAP1B		
+													RAPGEF2		
+													RASA1		
+													RASA2		
+													RASGRF1		
+													RASGRF2		
+													RASGRP1		
+													RASGRP2		
+													RASGRP3		
+													RASGRP4		
+													RELA		
+													RELB		
+													RPS6KA1		
+													RPS6KA2		
+													RPS6KA3		
+													RPS6KA4		
+													RPS6KA5		
+													RPS6KA6		
+													RRAS		
+													RRAS2		
+													SOS1		
+													SOS2		
+													SRF		
+													STK3		
+													STK4		
+													STMN1		
+													TAB1		
+													TAB2		
+													TAOK1		
+													TAOK2		
+													TAOK3		
+													TGFB1		
+													TGFB2		
+													TGFB3		
+													TGFBR1		
+													TGFBR2		
+													TNF		
+													TNFRSF1A		
+													TP53		
+													TRAF2		
+													TRAF6		

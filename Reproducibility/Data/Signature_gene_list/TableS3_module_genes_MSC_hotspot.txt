@@ -1,0 +1,1518 @@
+Gene	Meta program	Annotation
+FBLN1	1	Fibroblast
+MATN2	1	Fibroblast
+CLMP	1	Fibroblast
+PDGFRA	1	Fibroblast
+CELF2	1	Fibroblast
+LUM	1	Fibroblast
+MMP2	1	Fibroblast
+TSHZ2	1	Fibroblast
+FENDRR	1	Fibroblast
+BNC2	1	Fibroblast
+A2M	1	Fibroblast
+KAZN	1	Fibroblast
+SPON1	1	Fibroblast
+SNED1	1	Fibroblast
+C1S	1	Fibroblast
+PDE7B	1	Fibroblast
+SOX6	1	Fibroblast
+CXCL14	1	Fibroblast
+C1R	1	Fibroblast
+BICC1	1	Fibroblast
+ABCC4	1	Fibroblast
+NAALADL2	1	Fibroblast
+GPRC5A	1	Fibroblast
+TGFBR3	1	Fibroblast
+MFAP4	1	Fibroblast
+TRPA1	1	Fibroblast
+PLEKHA5	1	Fibroblast
+THSD4	1	Fibroblast
+LSAMP	1	Fibroblast
+PLXDC2	1	Fibroblast
+HSD17B2	1	Fibroblast
+BMP5	1	Fibroblast
+MCTP2	1	Fibroblast
+FMNL2	1	Fibroblast
+PRICKLE1	1	Fibroblast
+LTBP4	1	Fibroblast
+LDLRAD4	1	Fibroblast
+PID1	1	Fibroblast
+NLGN1	1	Fibroblast
+FGF7	1	Fibroblast
+PDE10A	1	Fibroblast
+ITGA11	1	Fibroblast
+TMEM176B	1	Fibroblast
+ZNF536	1	Fibroblast
+GPC6	1	Fibroblast
+SORCS1	1	Fibroblast
+PDPN	1	Fibroblast
+SLC14A1	1	Fibroblast
+RARRES2	1	Fibroblast
+SOD2	1	Fibroblast
+LRRC3B	1	Fibroblast
+PTPRE	1	Fibroblast
+COL8A1	1	Fibroblast
+TRHDE	1	Fibroblast
+PDE4D	1	Fibroblast
+TGM2	1	Fibroblast
+TRABD2B	1	Fibroblast
+NAMPT	1	Fibroblast
+AFF3	1	Fibroblast
+ARHGAP28	1	Fibroblast
+PCDH7	1	Fibroblast
+PDGFD	1	Fibroblast
+HHIP	1	Fibroblast
+ROR2	1	Fibroblast
+PALLD	1	Fibroblast
+COL16A1	1	Fibroblast
+ITIH5	1	Fibroblast
+WNT5B	1	Fibroblast
+POU6F2	1	Fibroblast
+COL27A1	1	Fibroblast
+SLIT2	1	Fibroblast
+PREX2	1	Fibroblast
+NOVA1	1	Fibroblast
+RUNX1	1	Fibroblast
+SGCZ	1	Fibroblast
+ABCA8	1	Fibroblast
+PITX1	1	Fibroblast
+F3	1	Fibroblast
+ITGA8	1	Fibroblast
+GAS7	1	Fibroblast
+TENM2	1	Fibroblast
+PTPRM	1	Fibroblast
+FGFR1	1	Fibroblast
+SQSTM1	1	Fibroblast
+SLC23A2	1	Fibroblast
+C1QTNF7	1	Fibroblast
+BDKRB2	1	Fibroblast
+VCAN	1	Fibroblast
+REV3L	1	Fibroblast
+DLG2	1	Fibroblast
+ETS2	1	Fibroblast
+NAV1	1	Fibroblast
+ANK3	1	Fibroblast
+ELMO1	1	Fibroblast
+NRG1	1	Fibroblast
+PLAGL1	1	Fibroblast
+DANT2	1	Fibroblast
+LTBP1	1	Fibroblast
+PLAT	1	Fibroblast
+PTCH1	1	Fibroblast
+PRDM6	1	Fibroblast
+PTGS2	1	Fibroblast
+SHANK2	1	Fibroblast
+ADAMTS19	1	Fibroblast
+SEMA4D	1	Fibroblast
+PBX1	1	Fibroblast
+RYR2	1	Fibroblast
+CPED1	1	Fibroblast
+PMP22	1	Fibroblast
+SH3PXD2B	1	Fibroblast
+EMID1	1	Fibroblast
+SLC2A13	1	Fibroblast
+FAM155A	1	Fibroblast
+GALNTL6	1	Fibroblast
+MAN1A1	1	Fibroblast
+LPAR1	1	Fibroblast
+COL4A5	1	Fibroblast
+TAFA2	1	Fibroblast
+TMEM132C	1	Fibroblast
+KCNIP4	1	Fibroblast
+THBS1	1	Fibroblast
+EYA4	1	Fibroblast
+PRICKLE2	1	Fibroblast
+BOC	1	Fibroblast
+HIPK2	1	Fibroblast
+EMILIN1	1	Fibroblast
+TENM3	1	Fibroblast
+TIAM1	1	Fibroblast
+ITGA5	1	Fibroblast
+WNT5A	1	Fibroblast
+LTBP2	1	Fibroblast
+RUNX2	1	Fibroblast
+PDGFC	1	Fibroblast
+ROBO2	1	Fibroblast
+ACSL4	1	Fibroblast
+DPYSL3	1	Fibroblast
+TACR3	1	Fibroblast
+NTM	1	Fibroblast
+COL12A1	1	Fibroblast
+TCF21	1	Fibroblast
+STC1	1	Fibroblast
+OSBPL10	1	Fibroblast
+PLCB1	1	Fibroblast
+BMP7	1	Fibroblast
+AREG	1	Fibroblast
+APBA2	1	Fibroblast
+SRPX2	1	Fibroblast
+SEMA3E	1	Fibroblast
+RHOBTB3	1	Fibroblast
+TMEM176A	1	Fibroblast
+NPAS2	1	Fibroblast
+COL24A1	1	Fibroblast
+TMTC2	1	Fibroblast
+PTGDS	1	Fibroblast
+GJA1	1	Fibroblast
+SERPINE1	1	Fibroblast
+ABCA10	1	Fibroblast
+ISLR	1	Fibroblast
+LMCD1	1	Fibroblast
+CREB5	1	Fibroblast
+FHL2	1	Fibroblast
+AFDN	1	Fibroblast
+NXN	1	Fibroblast
+LHFPL2	1	Fibroblast
+BMP4	1	Fibroblast
+MEG3	1	Fibroblast
+EDIL3	1	Fibroblast
+IGFBP5	1	Fibroblast
+MXRA5	1	Fibroblast
+ST3GAL1	1	Fibroblast
+EFCC1	1	Fibroblast
+PLPP1	1	Fibroblast
+LRMDA	1	Fibroblast
+LRRK1	1	Fibroblast
+TOX3	1	Fibroblast
+COL6A5	1	Fibroblast
+POSTN	1	Fibroblast
+PSD3	1	Fibroblast
+ATRNL1	1	Fibroblast
+AKAP12	1	Fibroblast
+ZFHX4	1	Fibroblast
+WNT2	1	Fibroblast
+KLF4	1	Fibroblast
+BASP1	1	Fibroblast
+FGFR2	1	Fibroblast
+STXBP6	1	Fibroblast
+NPAS3	1	Fibroblast
+ABCA1	1	Fibroblast
+ALDH1A3	1	Fibroblast
+TAFA5	1	Fibroblast
+FRMD6	1	Fibroblast
+ITGB8	1	Fibroblast
+SHB	1	Fibroblast
+GULP1	1	Fibroblast
+ST8SIA1	1	Fibroblast
+PLPP3	1	Fibroblast
+ME1	1	Fibroblast
+INSC	1	Fibroblast
+ELN	1	Fibroblast
+ANTXR2	1	Fibroblast
+MTHFD1L	1	Fibroblast
+VWA2	1	Fibroblast
+GSE1	1	Fibroblast
+MGAT5	1	Fibroblast
+EXT1	1	Fibroblast
+COBL	1	Fibroblast
+TLL1	1	Fibroblast
+WDR27	1	Fibroblast
+STXBP5	1	Fibroblast
+RASGRF2	1	Fibroblast
+TANC2	1	Fibroblast
+ADCY2	1	Fibroblast
+PLEKHH2	1	Fibroblast
+STOX2	1	Fibroblast
+SCUBE1	1	Fibroblast
+VIPR2	1	Fibroblast
+EPHA6	1	Fibroblast
+RORB	1	Fibroblast
+MCOLN3	1	Fibroblast
+TNC	1	Fibroblast
+SLC27A6	1	Fibroblast
+SFMBT2	1	Fibroblast
+MSR1	1	Fibroblast
+TSPAN2	1	Fibroblast
+FGF9	1	Fibroblast
+KCNQ1OT1	1	Fibroblast
+NDST4	1	Fibroblast
+RAMP1	1	Fibroblast
+ZEB1	1	Fibroblast
+ERN1	1	Fibroblast
+PAQR5	1	Fibroblast
+ENPP2	1	Fibroblast
+PPP3CA	1	Fibroblast
+MGST1	1	Fibroblast
+SSPN	1	Fibroblast
+KIF26B	1	Fibroblast
+PRKCA	1	Fibroblast
+TMEM119	1	Fibroblast
+SORCS2	1	Fibroblast
+TM4SF1	1	Fibroblast
+PCDH11Y	1	Fibroblast
+MOXD1	1	Fibroblast
+GAB2	1	Fibroblast
+RAB7A	1	Fibroblast
+KSR1	1	Fibroblast
+ADAMTS14	1	Fibroblast
+GREM2	1	Fibroblast
+C1orf21	1	Fibroblast
+MMP23B	1	Fibroblast
+ANTXR1	1	Fibroblast
+SNX9	1	Fibroblast
+PAPLN	1	Fibroblast
+PLXNC1	1	Fibroblast
+KREMEN1	1	Fibroblast
+TFPI2	1	Fibroblast
+IGDCC4	1	Fibroblast
+OLFML3	1	Fibroblast
+PDE3B	1	Fibroblast
+SLC4A4	1	Fibroblast
+EYA1	1	Fibroblast
+TNFRSF11B	1	Fibroblast
+TMTC4	1	Fibroblast
+MAN1C1	1	Fibroblast
+GLIS1	1	Fibroblast
+CCDC146	1	Fibroblast
+FBXL7	1	Fibroblast
+DOCK5	1	Fibroblast
+CMYA5	1	Fibroblast
+MEIS1	1	Fibroblast
+PAPPA	1	Fibroblast
+GK	1	Fibroblast
+ST3GAL5	1	Fibroblast
+CREB3L1	1	Fibroblast
+EPHA7	1	Fibroblast
+MAN2A1	1	Fibroblast
+GATA6	1	Fibroblast
+NOS1AP	1	Fibroblast
+B4GALT1	1	Fibroblast
+TIMP3	1	Fibroblast
+WNT4	1	Fibroblast
+SPATA13	1	Fibroblast
+LRP4	1	Fibroblast
+MYO10	1	Fibroblast
+SORBS1	1	Fibroblast
+DPP10	1	Fibroblast
+NDNF	1	Fibroblast
+CXCL8	1	Fibroblast
+GXYLT2	1	Fibroblast
+AMPD3	1	Fibroblast
+TARID	1	Fibroblast
+ADGRL3	1	Fibroblast
+CLIP4	1	Fibroblast
+ENC1	1	Fibroblast
+ZDHHC14	1	Fibroblast
+OBSCN	1	Fibroblast
+LRRK2	1	Fibroblast
+LIF	1	Fibroblast
+SEMA3A	1	Fibroblast
+WIF1	1	Fibroblast
+GFRA1	1	Fibroblast
+CHST15	1	Fibroblast
+SUGCT	1	Fibroblast
+NPTX1	1	Fibroblast
+BACH2	1	Fibroblast
+ARMC9	1	Fibroblast
+FGF10	1	Fibroblast
+IRS1	1	Fibroblast
+CNTN1	1	Fibroblast
+NKD2	1	Fibroblast
+FAM20C	1	Fibroblast
+PDZRN3	1	Fibroblast
+HIF3A	1	Fibroblast
+WDR86	1	Fibroblast
+TNIK	1	Fibroblast
+TSHZ3	1	Fibroblast
+FAT4	1	Fibroblast
+P4HA3	1	Fibroblast
+PLPPR4	1	Fibroblast
+ITGA2	1	Fibroblast
+IL16	1	Fibroblast
+ZFPM2-AS1	1	Fibroblast
+ADAM28	1	Fibroblast
+LXN	1	Fibroblast
+WARS	1	Fibroblast
+SDK2	1	Fibroblast
+ALDH1A2	1	Fibroblast
+MUSK	1	Fibroblast
+PDLIM3	1	Fibroblast
+FHIT	1	Fibroblast
+LRFN5	1	Fibroblast
+LRRC23	1	Fibroblast
+ISM1	1	Fibroblast
+SLC19A2	1	Fibroblast
+GRIK2	1	Fibroblast
+FST	1	Fibroblast
+GCLM	1	Fibroblast
+TBXAS1	1	Fibroblast
+RIPOR3	1	Fibroblast
+GALNT10	1	Fibroblast
+SEMA4A	1	Fibroblast
+THSD7A	1	Fibroblast
+MYH10	1	Fibroblast
+PGR	1	Fibroblast
+ANKS1B	1	Fibroblast
+L3MBTL4	1	Fibroblast
+KHDRBS2	1	Fibroblast
+SVIL	1	Fibroblast
+PHACTR3	1	Fibroblast
+PLEKHG1	1	Fibroblast
+UNC5C	1	Fibroblast
+PRX	1	Fibroblast
+NFATC1	1	Fibroblast
+STK32B	1	Fibroblast
+GHR	1	Fibroblast
+MT2A	1	Fibroblast
+PCNX1	1	Fibroblast
+TSPAN33	1	Fibroblast
+GNAL	1	Fibroblast
+GFOD1	1	Fibroblast
+DLGAP1	1	Fibroblast
+ANKFN1	1	Fibroblast
+RGS17	1	Fibroblast
+NSG1	1	Fibroblast
+SMIM41	1	Fibroblast
+TIPARP	1	Fibroblast
+LPCAT2	1	Fibroblast
+CTSC	1	Fibroblast
+VCAM1	1	Fibroblast
+COL4A6	1	Fibroblast
+KLHL13	1	Fibroblast
+CDC14A	1	Fibroblast
+ROBO1	1	Fibroblast
+HSPB8	1	Fibroblast
+EDNRB	1	Fibroblast
+BRINP3	1	Fibroblast
+OTULINL	1	Fibroblast
+GALNT18	1	Fibroblast
+MBOAT1	1	Fibroblast
+MAGI2	1	Fibroblast
+CTTNBP2	1	Fibroblast
+CHIC2	1	Fibroblast
+NALCN	1	Fibroblast
+GRM7	1	Fibroblast
+RDH10	1	Fibroblast
+PITPNM2	1	Fibroblast
+SLC25A48	1	Fibroblast
+MEG8	1	Fibroblast
+KIF13B	1	Fibroblast
+HGF	1	Fibroblast
+MITF	1	Fibroblast
+CLIC6	1	Fibroblast
+SLC16A1	1	Fibroblast
+SOBP	1	Fibroblast
+CCDC71L	1	Fibroblast
+SMPDL3A	1	Fibroblast
+MTUS2	1	Fibroblast
+VCAN-AS1	1	Fibroblast
+BMP6	1	Fibroblast
+LNX1	1	Fibroblast
+COL9A1	1	Fibroblast
+SNCAIP	1	Fibroblast
+FGF2	1	Fibroblast
+UBASH3B	1	Fibroblast
+SAMD11	1	Fibroblast
+DCBLD1	1	Fibroblast
+SIPA1L2	1	Fibroblast
+PROM1	1	Fibroblast
+SLC6A6	1	Fibroblast
+GREB1	1	Fibroblast
+CH25H	1	Fibroblast
+DNAH14	1	Fibroblast
+FREM1	1	Fibroblast
+1-Dec	1	Fibroblast
+PTGES	1	Fibroblast
+PTPRD	1	Fibroblast
+CNTN3	1	Fibroblast
+NCAM1	1	Fibroblast
+PCSK6	1	Fibroblast
+CNIH3	1	Fibroblast
+ALKAL2	1	Fibroblast
+NPFFR2	1	Fibroblast
+FAM107A	1	Fibroblast
+GALNT17	1	Fibroblast
+EDAR	1	Fibroblast
+ABHD17C	1	Fibroblast
+SYNDIG1	1	Fibroblast
+SAMD5	1	Fibroblast
+FGF10-AS1	1	Fibroblast
+ATP2B1	1	Fibroblast
+ASXL3	1	Fibroblast
+C5orf66	1	Fibroblast
+CSMD1	1	Fibroblast
+CMSS1	1	Fibroblast
+HPSE2	1	Fibroblast
+SMAD9	1	Fibroblast
+TOX	1	Fibroblast
+SMAD6	1	Fibroblast
+SCUBE2	1	Fibroblast
+SH3BP4	1	Fibroblast
+IL11	1	Fibroblast
+CSF3	1	Fibroblast
+PTGER2	1	Fibroblast
+TMOD1	1	Fibroblast
+MAMLD1	1	Fibroblast
+FAM135B	1	Fibroblast
+NR4A2	1	Fibroblast
+CEP83	1	Fibroblast
+LIMCH1	1	Fibroblast
+TSPAN18	1	Fibroblast
+MCF2L2	1	Fibroblast
+NTF3	1	Fibroblast
+RHOBTB1	1	Fibroblast
+GALNT5	1	Fibroblast
+CHRM2	1	Fibroblast
+CCDC178	1	Fibroblast
+DDHD1	1	Fibroblast
+EEPD1	1	Fibroblast
+THRB	1	Fibroblast
+TSLP	1	Fibroblast
+HOMER1	1	Fibroblast
+TCF7L1	1	Fibroblast
+CPEB1	1	Fibroblast
+TNFRSF10D	1	Fibroblast
+CADM2	1	Fibroblast
+PRAG1	1	Fibroblast
+HECW1	1	Fibroblast
+CEMIP	1	Fibroblast
+ENPP1	1	Fibroblast
+EFNA5	1	Fibroblast
+PRKD1	1	Fibroblast
+ST6GALNAC3	1	Fibroblast
+SHISA6	1	Fibroblast
+WWTR1	1	Fibroblast
+LDLR	1	Fibroblast
+DNAH5	1	Fibroblast
+CCDC170	1	Fibroblast
+AKR1C1	1	Fibroblast
+NEDD4L	1	Fibroblast
+SLC46A3	1	Fibroblast
+KANK1	1	Fibroblast
+MMD	1	Fibroblast
+SPTLC3	1	Fibroblast
+NLGN4Y	1	Fibroblast
+CFB	1	Fibroblast
+PLA2G4A	1	Fibroblast
+PRDM5	1	Fibroblast
+TBC1D2	1	Fibroblast
+NALCN-AS1	1	Fibroblast
+FOXQ1	1	Fibroblast
+ALDH1A1	1	Fibroblast
+HMGCLL1	1	Fibroblast
+CDYL2	1	Fibroblast
+ATP8A2	1	Fibroblast
+GRIK1	1	Fibroblast
+SPATA6L	1	Fibroblast
+CORIN	1	Fibroblast
+EGR3	1	Fibroblast
+ADAMTS8	1	Fibroblast
+ABCB1	1	Fibroblast
+CFI	1	Fibroblast
+DEFB1	1	Fibroblast
+MANBA	1	Fibroblast
+MCOLN2	1	Fibroblast
+KCNK1	1	Fibroblast
+IL15	1	Fibroblast
+TNFSF11	1	Fibroblast
+IL7	1	Fibroblast
+ADRB1	1	Fibroblast
+BAMBI	1	Fibroblast
+SCFD2	1	Fibroblast
+CABLES1	1	Fibroblast
+ADORA2B	1	Fibroblast
+POU6F2-AS2	1	Fibroblast
+JAK2	1	Fibroblast
+TGFBR1	1	Fibroblast
+STK33	1	Fibroblast
+TNFAIP2	1	Fibroblast
+GDNF	1	Fibroblast
+GRIK4	1	Fibroblast
+TANK	1	Fibroblast
+MOV10L1	1	Fibroblast
+FHOD3	1	Fibroblast
+ADAM23	1	Fibroblast
+GLUD1	1	Fibroblast
+GPAT3	1	Fibroblast
+PPM1H	1	Fibroblast
+C8orf37-AS1	1	Fibroblast
+COCH	1	Fibroblast
+STAMBPL1	1	Fibroblast
+HPCAL1	1	Fibroblast
+GDF15	1	Fibroblast
+ZNF608	1	Fibroblast
+HS3ST5	1	Fibroblast
+BHMT2	1	Fibroblast
+LMBR1	1	Fibroblast
+EGLN3	1	Fibroblast
+SLC7A1	1	Fibroblast
+SCN5A	1	Fibroblast
+NIPAL2	1	Fibroblast
+ABTB2	1	Fibroblast
+TMC3-AS1	1	Fibroblast
+ADPRHL1	1	Fibroblast
+RDH10-AS1	1	Fibroblast
+PDE4C	1	Fibroblast
+PROCR	1	Fibroblast
+DNM3	1	Fibroblast
+DLL1	1	Fibroblast
+PPM1N	1	Fibroblast
+STRA6	1	Fibroblast
+GCH1	1	Fibroblast
+LONRF3	1	Fibroblast
+PON3	1	Fibroblast
+ANKH	1	Fibroblast
+GCLC	1	Fibroblast
+CADPS2	1	Fibroblast
+SNCA	1	Fibroblast
+PHACTR1	1	Fibroblast
+WNT2B	1	Fibroblast
+PPP1R13B	1	Fibroblast
+TNFRSF10B	1	Fibroblast
+ADAMTS19-AS1	1	Fibroblast
+MYO3B	1	Fibroblast
+PRKCG	1	Fibroblast
+SLC45A4	1	Fibroblast
+BASP1-AS1	1	Fibroblast
+SUPT3H	1	Fibroblast
+ST6GALNAC5	1	Fibroblast
+DTNB	1	Fibroblast
+COX10-AS1	1	Fibroblast
+GLIPR1	1	Fibroblast
+CSMD3	1	Fibroblast
+PCDH19	1	Fibroblast
+TSPAN13	1	Fibroblast
+HSH2D	1	Fibroblast
+LRRTM4	1	Fibroblast
+WDR63	1	Fibroblast
+RGS5	2	Pericyte
+MCAM	2	Pericyte
+CCDC102B	2	Pericyte
+FRMD3	2	Pericyte
+MEF2C	2	Pericyte
+INPP4B	2	Pericyte
+GUCY1A2	2	Pericyte
+PLCE1	2	Pericyte
+NDUFA4L2	2	Pericyte
+FRZB	2	Pericyte
+CACNB2	2	Pericyte
+COL4A1	2	Pericyte
+EGFLAM	2	Pericyte
+PIP5K1B	2	Pericyte
+ANGPT2	2	Pericyte
+PLCB4	2	Pericyte
+CDH6	2	Pericyte
+PLCL1	2	Pericyte
+MYL9	2	Pericyte
+ARHGAP26	2	Pericyte
+SLC35F1	2	Pericyte
+DOCK8	2	Pericyte
+FAM171A1	2	Pericyte
+PDE8B	2	Pericyte
+DOK6	2	Pericyte
+FAM162B	2	Pericyte
+CSPG4	2	Pericyte
+UACA	2	Pericyte
+GUCY1A1	2	Pericyte
+FAM13C	2	Pericyte
+PAG1	2	Pericyte
+TRPC6	2	Pericyte
+DACH1	2	Pericyte
+PDGFA	2	Pericyte
+HIGD1B	2	Pericyte
+TAGLN	2	Pericyte
+PPP1R14A	2	Pericyte
+OLFML2A	2	Pericyte
+CRIP1	2	Pericyte
+COX4I2	2	Pericyte
+PDE3A	2	Pericyte
+PTP4A3	2	Pericyte
+SEMA6D	2	Pericyte
+CYTOR	2	Pericyte
+SPECC1	2	Pericyte
+LAMC3	2	Pericyte
+FRY	2	Pericyte
+DOCK4	2	Pericyte
+LDB3	2	Pericyte
+SLC12A2	2	Pericyte
+SLC38A11	2	Pericyte
+ACTA2	2	Pericyte
+ADGRG6	2	Pericyte
+PPM1L	2	Pericyte
+ARHGAP15	2	Pericyte
+ARHGEF7	2	Pericyte
+PDZD2	2	Pericyte
+CPE	2	Pericyte
+RERG	2	Pericyte
+GRM8	2	Pericyte
+GJA4	2	Pericyte
+KRT18	2	Pericyte
+SMOC2	2	Pericyte
+LZTS1	2	Pericyte
+CPM	2	Pericyte
+PDE1A	2	Pericyte
+CACNA1D	2	Pericyte
+TESC	2	Pericyte
+MAGI1	2	Pericyte
+LURAP1L	2	Pericyte
+MAP2	2	Pericyte
+GPR158	2	Pericyte
+CPA6	2	Pericyte
+EPHA3	2	Pericyte
+PRLR	2	Pericyte
+KLHL29	2	Pericyte
+NHSL2	2	Pericyte
+ITGA4	2	Pericyte
+FJX1	2	Pericyte
+SLC6A1	2	Pericyte
+CARMN	2	Pericyte
+HS6ST3	2	Pericyte
+TPPP3	2	Pericyte
+COL5A3	2	Pericyte
+RAPGEF5	2	Pericyte
+ID4	2	Pericyte
+STEAP4	2	Pericyte
+CERS6	2	Pericyte
+TTN	2	Pericyte
+FGD4	2	Pericyte
+TEX41	2	Pericyte
+ADGRL2	2	Pericyte
+SEMA5B	2	Pericyte
+APOLD1	2	Pericyte
+CSRNP3	2	Pericyte
+COL25A1	2	Pericyte
+ARHGAP29	2	Pericyte
+MARK1	2	Pericyte
+IGFBP2	2	Pericyte
+P2RX3	2	Pericyte
+DPY19L2	2	Pericyte
+CAMK4	2	Pericyte
+EBF2	2	Pericyte
+TRPC4	2	Pericyte
+CNNM2	2	Pericyte
+MAPRE2	2	Pericyte
+ATP10A	2	Pericyte
+ERBB4	2	Pericyte
+MAML3	2	Pericyte
+SYTL2	2	Pericyte
+ADAMTSL3	2	Pericyte
+RNF150	2	Pericyte
+CA4	2	Pericyte
+CCND1	2	Pericyte
+ARHGAP44	2	Pericyte
+KCNQ3	2	Pericyte
+PARM1	2	Pericyte
+PPM1E	2	Pericyte
+ELOVL2	2	Pericyte
+GRK3	2	Pericyte
+NRCAM	2	Pericyte
+CADM1	2	Pericyte
+KALRN	2	Pericyte
+FAT1	2	Pericyte
+TSPAN5	2	Pericyte
+ENTPD1	2	Pericyte
+CCDC3	2	Pericyte
+SSTR2	2	Pericyte
+RGS7BP	2	Pericyte
+KCNE4	2	Pericyte
+HOPX	2	Pericyte
+NOSTRIN	2	Pericyte
+PPARGC1B	2	Pericyte
+RGS16	2	Pericyte
+EPHA4	2	Pericyte
+DCLK2	2	Pericyte
+NCKAP5	2	Pericyte
+GRID1	2	Pericyte
+RNF152	2	Pericyte
+TPM1	2	Pericyte
+ATP1A2	2	Pericyte
+MAPT	2	Pericyte
+CACHD1	2	Pericyte
+TMEM131L	2	Pericyte
+MPPED2	2	Pericyte
+BCL2	2	Pericyte
+RBM20	2	Pericyte
+SLC8A1	2	Pericyte
+ZSWIM5	2	Pericyte
+NRXN3	2	Pericyte
+AVPR1A	2	Pericyte
+LPL	2	Pericyte
+RARB	2	Pericyte
+DYNC1I1	2	Pericyte
+PDGFB	2	Pericyte
+ASAP2	2	Pericyte
+MYOM2	2	Pericyte
+PDLIM5	2	Pericyte
+SLCO1C1	2	Pericyte
+DCHS2	2	Pericyte
+XKR6	2	Pericyte
+DISP1	2	Pericyte
+RNF180	2	Pericyte
+NPY1R	2	Pericyte
+DOCK10	2	Pericyte
+THSD7B	2	Pericyte
+CCDC141	2	Pericyte
+FHL5	2	Pericyte
+GAB1	2	Pericyte
+KITLG	2	Pericyte
+FAM20A	2	Pericyte
+TTLL7	2	Pericyte
+SESN3	2	Pericyte
+UST	2	Pericyte
+FRMD4B	2	Pericyte
+P3H2	2	Pericyte
+CHSY3	2	Pericyte
+NHSL1	2	Pericyte
+NES	2	Pericyte
+ABCC9	2	Pericyte
+AFF2	2	Pericyte
+RIPOR2	2	Pericyte
+NCALD	2	Pericyte
+SPRY4-AS1	2	Pericyte
+TBC1D4	2	Pericyte
+STAC	2	Pericyte
+HDAC9	2	Pericyte
+FLT1	2	Pericyte
+GCNT2	2	Pericyte
+ABLIM2	2	Pericyte
+AGTR1	2	Pericyte
+PRKCB	2	Pericyte
+SLC5A3	2	Pericyte
+KCNJ8	2	Pericyte
+NKD1	2	Pericyte
+RAPGEF4	2	Pericyte
+ACAN	2	Pericyte
+ADAMTS5	2	Pericyte
+CSF1R	2	Pericyte
+MCU	2	Pericyte
+TGFB2	2	Pericyte
+ANO3	2	Pericyte
+SERPINI1	2	Pericyte
+XIST	2	Pericyte
+PIK3CD	2	Pericyte
+MEF2C-AS1	2	Pericyte
+MOB3B	2	Pericyte
+FILIP1	2	Pericyte
+NPR3	2	Pericyte
+OR51E1	2	Pericyte
+PELI1	2	Pericyte
+DNAH11	2	Pericyte
+RGL1	2	Pericyte
+SNX31	2	Pericyte
+CBLN1	2	Pericyte
+FRK	2	Pericyte
+ALCAM	2	Pericyte
+C9orf153	2	Pericyte
+CDH8	2	Pericyte
+C3orf70	2	Pericyte
+KCNS3	2	Pericyte
+SATB2	2	Pericyte
+EPB41L4A	2	Pericyte
+ANGPT1	2	Pericyte
+IL34	2	Pericyte
+MAP3K7CL	2	Pericyte
+OSBPL3	2	Pericyte
+ENOX1	2	Pericyte
+ADAMTS9	3	Vascular smooth muscle
+MYH11	3	Vascular smooth muscle
+RGS6	3	Vascular smooth muscle
+HRH2	3	Vascular smooth muscle
+DGKG	3	Vascular smooth muscle
+AKAP6	3	Vascular smooth muscle
+RCAN2	3	Vascular smooth muscle
+CASQ2	3	Vascular smooth muscle
+ZBTB7C	3	Vascular smooth muscle
+SPARCL1	3	Vascular smooth muscle
+DGKB	3	Vascular smooth muscle
+NTRK2	3	Vascular smooth muscle
+ADRA1A	3	Vascular smooth muscle
+SORBS2	3	Vascular smooth muscle
+C11orf96	3	Vascular smooth muscle
+MUSTN1	3	Vascular smooth muscle
+PI15	3	Vascular smooth muscle
+NET1	3	Vascular smooth muscle
+PITPNC1	3	Vascular smooth muscle
+LAMA3	3	Vascular smooth muscle
+PRDM16	3	Vascular smooth muscle
+ADAMTS4	3	Vascular smooth muscle
+ADCY5	3	Vascular smooth muscle
+DMD	3	Vascular smooth muscle
+CRISPLD2	3	Vascular smooth muscle
+ANGPT4	3	Vascular smooth muscle
+CTNNA3	3	Vascular smooth muscle
+ADRA2A	3	Vascular smooth muscle
+SLC7A2	3	Vascular smooth muscle
+SUSD5	3	Vascular smooth muscle
+MYOM1	3	Vascular smooth muscle
+ADAMTS1	3	Vascular smooth muscle
+SYNM	3	Vascular smooth muscle
+MYOCD	3	Vascular smooth muscle
+NTRK3	3	Vascular smooth muscle
+ZBTB16	3	Vascular smooth muscle
+FKBP5	3	Vascular smooth muscle
+NGF	3	Vascular smooth muscle
+ENPEP	3	Vascular smooth muscle
+SCN3A	3	Vascular smooth muscle
+ATP1B3	3	Vascular smooth muscle
+CAP2	3	Vascular smooth muscle
+REEP1	3	Vascular smooth muscle
+ADAMTS9-AS1	3	Vascular smooth muscle
+PDK4	3	Vascular smooth muscle
+NIBAN1	3	Vascular smooth muscle
+SLC7A5	3	Vascular smooth muscle
+PLN	3	Vascular smooth muscle
+DTNA	3	Vascular smooth muscle
+MACROD2	3	Vascular smooth muscle
+ANOS1	3	Vascular smooth muscle
+ANKRD29	3	Vascular smooth muscle
+NHS	3	Vascular smooth muscle
+CCDC85A	3	Vascular smooth muscle
+KCNMA1	3	Vascular smooth muscle
+GRID2	3	Vascular smooth muscle
+FRAS1	3	Vascular smooth muscle
+LMOD1	3	Vascular smooth muscle
+SRL	3	Vascular smooth muscle
+NPNT	3	Vascular smooth muscle
+SPTB	3	Vascular smooth muscle
+CACNA2D3	3	Vascular smooth muscle
+JPH2	3	Vascular smooth muscle
+CSRP1	3	Vascular smooth muscle
+CNN1	3	Vascular smooth muscle
+NTN4	3	Vascular smooth muscle
+NMNAT2	3	Vascular smooth muscle
+RERGL	3	Vascular smooth muscle
+ALPK3	3	Vascular smooth muscle
+PHLDB2	3	Vascular smooth muscle
+PPP2R2B	3	Vascular smooth muscle
+RRAD	3	Vascular smooth muscle
+PCED1B	3	Vascular smooth muscle
+CRYAB	3	Vascular smooth muscle
+MDGA2	3	Vascular smooth muscle
+DEPP1	3	Vascular smooth muscle
+MEOX2	3	Vascular smooth muscle
+CX3CL1	3	Vascular smooth muscle
+DES	3	Vascular smooth muscle
+PPFIA2	3	Vascular smooth muscle
+GSN	4	Progenitor
+TNXB	4	Progenitor
+CFD	4	Progenitor
+PCOLCE2	4	Progenitor
+CCDC80	4	Progenitor
+PI16	4	Progenitor
+CXCL12	4	Progenitor
+DCN	4	Progenitor
+SLIT3	4	Progenitor
+CILP	4	Progenitor
+NAV3	4	Progenitor
+DCLK1	4	Progenitor
+CD34	4	Progenitor
+C3	4	Progenitor
+SCARA5	4	Progenitor
+MFAP5	4	Progenitor
+EYA2	4	Progenitor
+FOXP2	4	Progenitor
+FBN1	4	Progenitor
+EFEMP1	4	Progenitor
+OGN	4	Progenitor
+CLU	4	Progenitor
+PTGIS	4	Progenitor
+ZFPM2	4	Progenitor
+3-Mar	4	Progenitor
+LRP1B	4	Progenitor
+ADH1B	4	Progenitor
+NEGR1	4	Progenitor
+GLIS3	4	Progenitor
+SEMA3C	4	Progenitor
+IGSF10	4	Progenitor
+NFIB	4	Progenitor
+COL14A1	4	Progenitor
+MGP	4	Progenitor
+VIT	4	Progenitor
+LAMA2	4	Progenitor
+LEPR	4	Progenitor
+FLRT2	4	Progenitor
+MEDAG	4	Progenitor
+ABCA6	4	Progenitor
+CP	4	Progenitor
+CDON	4	Progenitor
+SFRP1	4	Progenitor
+CCN5	4	Progenitor
+PODN	4	Progenitor
+SOD3	4	Progenitor
+SRGAP1	4	Progenitor
+GFPT2	4	Progenitor
+IGFBP6	4	Progenitor
+IL1R1	4	Progenitor
+ITM2A	4	Progenitor
+ADAMTSL1	4	Progenitor
+COL4A4	4	Progenitor
+ADGRB3	4	Progenitor
+ANK2	4	Progenitor
+ABCA9	4	Progenitor
+SVEP1	4	Progenitor
+C7	4	Progenitor
+FBLN5	4	Progenitor
+SLC39A14	4	Progenitor
+PCDH9	4	Progenitor
+EMP1	4	Progenitor
+SLC4A7	4	Progenitor
+CHRDL1	4	Progenitor
+CD44	4	Progenitor
+IGF1	4	Progenitor
+CTSL	4	Progenitor
+CA12	4	Progenitor
+CBLB	4	Progenitor
+SRPX	4	Progenitor
+XYLT1	4	Progenitor
+HRH1	4	Progenitor
+CFH	4	Progenitor
+SH3BP5	4	Progenitor
+PTN	4	Progenitor
+ADAM12	4	Progenitor
+ABI3BP	4	Progenitor
+KCNN3	4	Progenitor
+ALPL	4	Progenitor
+ELL2	4	Progenitor
+SH3D19	4	Progenitor
+UGDH	4	Progenitor
+PLAC9	4	Progenitor
+ZNF385D	4	Progenitor
+PVT1	4	Progenitor
+NFIA	4	Progenitor
+ABCC1	4	Progenitor
+DPT	4	Progenitor
+CEBPD	4	Progenitor
+SMAD3	4	Progenitor
+SLC7A14-AS1	4	Progenitor
+SPSB1	4	Progenitor
+FGF13	4	Progenitor
+OSMR	4	Progenitor
+TGFBR2	4	Progenitor
+COLEC12	4	Progenitor
+PLA2G2A	4	Progenitor
+AOX1	4	Progenitor
+ABLIM1	4	Progenitor
+CAMK2D	4	Progenitor
+KAZN-AS1	4	Progenitor
+SGCD	4	Progenitor
+NDRG1	4	Progenitor
+APOD	4	Progenitor
+ATP13A3	4	Progenitor
+ARHGEF3	4	Progenitor
+C16orf89	4	Progenitor
+PRELP	4	Progenitor
+SLC24A3	4	Progenitor
+HOXD10	4	Progenitor
+BMPER	4	Progenitor
+SLPI	4	Progenitor
+GNA14	4	Progenitor
+CFAP69	4	Progenitor
+SHC3	4	Progenitor
+SLC41A2	4	Progenitor
+FYN	4	Progenitor
+HAS2	4	Progenitor
+PDZRN4	4	Progenitor
+MN1	4	Progenitor
+RGMA	4	Progenitor
+PCSK5	4	Progenitor
+NABP1	4	Progenitor
+NTN1	4	Progenitor
+SERPINE2	4	Progenitor
+ZNF385B	4	Progenitor
+RAD51B	4	Progenitor
+NRP1	4	Progenitor
+S100A10	4	Progenitor
+CLDN11	4	Progenitor
+RSPO3	4	Progenitor
+SGCG	4	Progenitor
+PBX3	4	Progenitor
+MCC	4	Progenitor
+COL4A3	4	Progenitor
+SEMA3D	4	Progenitor
+KCNIP1	4	Progenitor
+CES1	4	Progenitor
+UAP1	4	Progenitor
+SERPINA3	4	Progenitor
+CD55	4	Progenitor
+HILPDA	4	Progenitor
+PLTP	4	Progenitor
+CARMIL1	4	Progenitor
+LMO3	4	Progenitor
+OMD	4	Progenitor
+PLEKHA6	4	Progenitor
+ADAMTS16	4	Progenitor
+ADGRD1	4	Progenitor
+DEPTOR	4	Progenitor
+DOK5	4	Progenitor
+PTGFR	4	Progenitor
+SCN7A	4	Progenitor
+PLAUR	4	Progenitor
+HK2	4	Progenitor
+CYP1B1	4	Progenitor
+MID1	4	Progenitor
+FLNB	4	Progenitor
+CHL1	4	Progenitor
+CCL2	4	Progenitor
+GPX3	4	Progenitor
+DHRS3	4	Progenitor
+SAMD4A	4	Progenitor
+RARRES1	4	Progenitor
+LIFR	4	Progenitor
+NOD1	4	Progenitor
+ITGBL1	4	Progenitor
+EPB41L3	4	Progenitor
+EGFR	4	Progenitor
+RFX2	4	Progenitor
+ROR1	4	Progenitor
+DSCAML1	4	Progenitor
+FGF14	4	Progenitor
+BMERB1	4	Progenitor
+ZNF385D-AS2	4	Progenitor
+PKNOX2	4	Progenitor
+FOSL1	4	Progenitor
+AHNAK2	4	Progenitor
+ARHGAP20	4	Progenitor
+PLIN2	4	Progenitor
+TWIST2	4	Progenitor
+PPL	4	Progenitor
+MGAT4C	4	Progenitor
+NAV2	4	Progenitor
+APBB1IP	4	Progenitor
+CACNB4	4	Progenitor
+MBP	4	Progenitor
+HMCN2	4	Progenitor
+GPRC5D-AS1	4	Progenitor
+ADGRG4	4	Progenitor
+PTX3	4	Progenitor
+GASK1A	4	Progenitor
+SLC16A7	4	Progenitor
+KCTD12	4	Progenitor
+KCNH1	4	Progenitor
+KDM7A	4	Progenitor
+XPNPEP2	4	Progenitor
+PCBP3	4	Progenitor
+VEGFD	4	Progenitor
+PCDH15	4	Progenitor
+GALNT15	4	Progenitor
+PPARG	4	Progenitor
+PAK3	4	Progenitor
+TLN2	4	Progenitor
+FAM198B-AS1	4	Progenitor
+LGR4	4	Progenitor
+GLP2R	4	Progenitor
+DAPK1	4	Progenitor
+SERTAD2	4	Progenitor
+JAM2	4	Progenitor
+ANXA1	4	Progenitor
+MYO16	4	Progenitor
+BDKRB1	4	Progenitor
+FAM227B	4	Progenitor
+SLC7A8	4	Progenitor
+IPO9-AS1	4	Progenitor
+KCND3	4	Progenitor
+NCAM2	4	Progenitor
+KRT222	4	Progenitor
+FLNC	4	Progenitor
+MFHAS1	4	Progenitor
+GAL	4	Progenitor
+EPHB2	4	Progenitor
+PRG4	4	Progenitor
+PCSK1	4	Progenitor
+TEX26-AS1	4	Progenitor
+LRIG3	4	Progenitor
+ANGPTL7	4	Progenitor
+IL33	4	Progenitor
+DPYS	4	Progenitor
+TRIM9	4	Progenitor
+ARRDC3	4	Progenitor
+GALNT13	4	Progenitor
+TBX18	4	Progenitor
+PDE4B	4	Progenitor
+TC2N	4	Progenitor
+CYP1B1-AS1	4	Progenitor
+FGL2	4	Progenitor
+CYP27C1	4	Progenitor
+RETREG1	4	Progenitor
+HELLPAR	4	Progenitor
+IL1RL2	4	Progenitor
+TMEM144	4	Progenitor
+PXDC1	4	Progenitor
+BMPR1B	4	Progenitor
+DLGAP2	4	Progenitor
+LRRC7	4	Progenitor
+TENM4	5	Extracellular matrix
+FBLN2	5	Extracellular matrix
+SDK1	5	Extracellular matrix
+AEBP1	5	Extracellular matrix
+FAP	5	Extracellular matrix
+ADAMTS2	5	Extracellular matrix
+COL1A2	5	Extracellular matrix
+PRRX1	5	Extracellular matrix
+THBS2	5	Extracellular matrix
+SPARC	5	Extracellular matrix
+COL1A1	5	Extracellular matrix
+COL6A3	5	Extracellular matrix
+BGN	5	Extracellular matrix
+COL3A1	5	Extracellular matrix
+SFRP2	5	Extracellular matrix
+HSPA1A	5	Extracellular matrix
+ANGPTL2	5	Extracellular matrix
+COL5A2	5	Extracellular matrix
+HSPA1B	5	Extracellular matrix
+THY1	5	Extracellular matrix
+STEAP2	5	Extracellular matrix
+MMP14	5	Extracellular matrix
+NOX4	5	Extracellular matrix
+SERPINF1	5	Extracellular matrix
+COL6A1	5	Extracellular matrix
+RAI14	5	Extracellular matrix
+CTSB	5	Extracellular matrix
+IGF2BP2	5	Extracellular matrix
+NNMT	5	Extracellular matrix
+SPHK1	5	Extracellular matrix
+GREM1	5	Extracellular matrix
+CTSK	5	Extracellular matrix
+FTH1	5	Extracellular matrix
+TWIST1	5	Extracellular matrix
+CCBE1	5	Extracellular matrix
+TNFAIP6	5	Extracellular matrix
+SLC24A2	5	Extracellular matrix
+APOE	5	Extracellular matrix
+INHBA	5	Extracellular matrix
+IGFBP4	5	Extracellular matrix
+SULF1	5	Extracellular matrix
+CSMD2	5	Extracellular matrix
+CTHRC1	5	Extracellular matrix
+SGIP1	5	Extracellular matrix
+GPNMB	5	Extracellular matrix
+MFAP2	5	Extracellular matrix
+TDO2	5	Extracellular matrix
+F2R	5	Extracellular matrix
+SPON2	5	Extracellular matrix
+IER3	5	Extracellular matrix
+HTRA3	5	Extracellular matrix
+LY6E	5	Extracellular matrix
+MME	5	Extracellular matrix
+EGFL6	5	Extracellular matrix
+CEBPB	5	Extracellular matrix
+IFITM1	5	Extracellular matrix
+CD82	5	Extracellular matrix
+GAS1	5	Extracellular matrix
+DIO2	5	Extracellular matrix
+ARL4C	5	Extracellular matrix
+HTRA1	5	Extracellular matrix
+PLD1	5	Extracellular matrix
+KCND2	5	Extracellular matrix
+LRRC15	5	Extracellular matrix
+CDK14	5	Extracellular matrix
+ASPN	5	Extracellular matrix
+HSPG2	5	Extracellular matrix
+CDH13	5	Extracellular matrix
+SULF2	5	Extracellular matrix
+EVA1A	5	Extracellular matrix
+COL7A1	5	Extracellular matrix
+ZFP36	5	Extracellular matrix
+FN1	5	Extracellular matrix
+SLC1A3	5	Extracellular matrix
+BST2	5	Extracellular matrix
+COL11A1	5	Extracellular matrix
+OLFML2B	5	Extracellular matrix
+PTK7	5	Extracellular matrix
+SERPINH1	5	Extracellular matrix
+CD248	5	Extracellular matrix
+PCOLCE	5	Extracellular matrix
+STEAP1	5	Extracellular matrix
+RND3	5	Extracellular matrix
+RNF144A	5	Extracellular matrix
+COL15A1	5	Extracellular matrix
+PLPP4	5	Extracellular matrix
+FMO1	5	Extracellular matrix
+TMEM45A	5	Extracellular matrix
+ABL2	5	Extracellular matrix
+TGFBI	5	Extracellular matrix
+PRSS23	5	Extracellular matrix
+CCN1	5	Extracellular matrix
+PLAU	5	Extracellular matrix
+ADM	5	Extracellular matrix
+CPXM1	5	Extracellular matrix
+RCN3	5	Extracellular matrix
+CHST11	5	Extracellular matrix
+SFRP4	5	Extracellular matrix
+VEGFA	5	Extracellular matrix
+CCN4	5	Extracellular matrix
+CSGALNACT1	5	Extracellular matrix
+SAT1	5	Extracellular matrix
+TMEM158	5	Extracellular matrix
+IL32	5	Extracellular matrix
+ANKRD28	5	Extracellular matrix
+IL7R	5	Extracellular matrix
+PXDN	5	Extracellular matrix
+C2orf27A	5	Extracellular matrix
+GASK1B	5	Extracellular matrix
+SPOCK1	5	Extracellular matrix
+NREP	5	Extracellular matrix
+UNC5B	5	Extracellular matrix
+FMOD	5	Extracellular matrix
+NCOA7	5	Extracellular matrix
+PRR16	5	Extracellular matrix
+TNFSF13B	5	Extracellular matrix
+PLOD2	5	Extracellular matrix
+ERRFI1	5	Extracellular matrix
+AGPAT4	5	Extracellular matrix
+ZNF469	5	Extracellular matrix
+CDKL5	5	Extracellular matrix
+IFI27	5	Extracellular matrix
+MMP11	5	Extracellular matrix
+FOXO1	5	Extracellular matrix
+COL10A1	5	Extracellular matrix
+ADAMTS12	5	Extracellular matrix
+LEF1	5	Extracellular matrix
+DSG2	5	Extracellular matrix
+BPGM	5	Extracellular matrix
+HSPH1	5	Extracellular matrix
+RFX8	5	Extracellular matrix
+TNFRSF21	5	Extracellular matrix
+LAMA1	5	Extracellular matrix
+RASSF8	5	Extracellular matrix
+TIMP1	5	Extracellular matrix
+NRP2	5	Extracellular matrix
+MICAL2	5	Extracellular matrix
+PFKFB3	5	Extracellular matrix
+NT5E	5	Extracellular matrix
+LOXL2	5	Extracellular matrix
+BICD1	5	Extracellular matrix
+SNTB1	5	Extracellular matrix
+FRMD5	5	Extracellular matrix
+HS3ST3A1	5	Extracellular matrix
+VGLL3	5	Extracellular matrix
+PDLIM4	5	Extracellular matrix
+PRDM1	5	Extracellular matrix
+MAP3K5	5	Extracellular matrix
+TSPAN11	5	Extracellular matrix
+CYSLTR2	5	Extracellular matrix
+GEM	5	Extracellular matrix
+DGKI	5	Extracellular matrix
+CCN2	5	Extracellular matrix
+GOLM1	5	Extracellular matrix
+TNFAIP3	5	Extracellular matrix
+RGCC	5	Extracellular matrix
+EML1	5	Extracellular matrix
+EPSTI1	5	Extracellular matrix
+IFI44L	5	Extracellular matrix
+SIPA1L1	5	Extracellular matrix
+BMP8A	5	Extracellular matrix
+COL23A1	5	Extracellular matrix
+LRIG1	5	Extracellular matrix
+HSPA6	5	Extracellular matrix
+TSPAN15	5	Extracellular matrix
+ICAM1	5	Extracellular matrix
+GPM6B	5	Extracellular matrix
+BHLHE40	5	Extracellular matrix
+TNFSF10	5	Extracellular matrix
+TNFRSF12A	5	Extracellular matrix
+IFI6	5	Extracellular matrix
+ATP6AP1L	5	Extracellular matrix
+CERCAM	5	Extracellular matrix
+ARHGAP24	5	Extracellular matrix
+GPR68	5	Extracellular matrix
+FBXO32	5	Extracellular matrix
+STC2	5	Extracellular matrix
+MMP1	5	Extracellular matrix
+AKR1B1	5	Extracellular matrix
+IFIT3	5	Extracellular matrix
+SNX10	5	Extracellular matrix
+FMO2	5	Extracellular matrix
+GPR176	5	Extracellular matrix
+HMGA2-AS1	5	Extracellular matrix
+ISG15	5	Extracellular matrix
+POU2F2	5	Extracellular matrix
+MB21D2	5	Extracellular matrix
+LAMP5	5	Extracellular matrix
+IL24	5	Extracellular matrix
+FAM216B	5	Extracellular matrix
+VDR	5	Extracellular matrix
+OLFM2	5	Extracellular matrix
+PTGER3	5	Extracellular matrix
+HMCN1	5	Extracellular matrix
+HMGA2	5	Extracellular matrix
+MAFB	5	Extracellular matrix
+DPP4	5	Extracellular matrix
+SNAI2	5	Extracellular matrix
+EMILIN2	5	Extracellular matrix
+NFKB1	5	Extracellular matrix
+TGFB3	5	Extracellular matrix
+LIMK2	5	Extracellular matrix
+LOX	5	Extracellular matrix
+C12orf75	5	Extracellular matrix
+STARD4-AS1	5	Extracellular matrix
+DTX1	5	Extracellular matrix
+LOXL1	5	Extracellular matrix
+IL15RA	5	Extracellular matrix
+MMP7	5	Extracellular matrix
+STAT1	5	Extracellular matrix
+HECW2	5	Extracellular matrix
+CDCP1	5	Extracellular matrix
+CD109	5	Extracellular matrix
+RUBCNL	5	Extracellular matrix
+FIBIN	5	Extracellular matrix
+BAG3	5	Extracellular matrix
+ALPK2	5	Extracellular matrix
+BMP8B	5	Extracellular matrix
+VEGFC	5	Extracellular matrix
+DDIT4	5	Extracellular matrix
+MYH13	5	Extracellular matrix
+BMP2	5	Extracellular matrix
+CXCL2	5	Extracellular matrix
+MMP16	5	Extracellular matrix
+MEST	5	Extracellular matrix
+SHOX2	5	Extracellular matrix
+PFKFB4	5	Extracellular matrix
+TMEM108	5	Extracellular matrix
+CLSTN2	5	Extracellular matrix
+GK-AS1	5	Extracellular matrix
+TNFRSF6B	5	Extracellular matrix
+CHI3L1	5	Extracellular matrix
+C3orf80	5	Extracellular matrix
+LMCD1-AS1	5	Extracellular matrix
+GRP	5	Extracellular matrix
+MMP19	5	Extracellular matrix
+LIN7A	5	Extracellular matrix
+PXDNL	5	Extracellular matrix
+TMEFF1	5	Extracellular matrix
+BCAT1	5	Extracellular matrix
+PARP14	5	Extracellular matrix
+DSC2	5	Extracellular matrix
+FNBP1L	5	Extracellular matrix
+IL19	5	Extracellular matrix
+LRRC17	5	Extracellular matrix
+RGS3	5	Extracellular matrix
+ITPRIP	5	Extracellular matrix
+F2RL2	5	Extracellular matrix
+PWWP3B	5	Extracellular matrix
+PTHLH	5	Extracellular matrix
+TNFRSF19	5	Extracellular matrix
+ADGRE2	5	Extracellular matrix
+WWC1	5	Extracellular matrix
+MYO1E	5	Extracellular matrix
+HIVEP3	5	Extracellular matrix
+MMP3	5	Extracellular matrix
+SYN3	5	Extracellular matrix
+CACNA1E	5	Extracellular matrix
+PGM2L1	5	Extracellular matrix
+IRS2	5	Extracellular matrix
+COL13A1	5	Extracellular matrix
+MME-AS1	5	Extracellular matrix
+HS2ST1	5	Extracellular matrix
+PPP2R3A	5	Extracellular matrix
+IL1RAP	5	Extracellular matrix
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
