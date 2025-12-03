@@ -47,8 +47,8 @@ Orange_Purple = rev(brewer.pal(11, "PuOr"))
 #################################################
 # Fig.6A  ECOTYPE DOGMA-seq data
 #################################################
-metadata = fread_n("Reproducibility/Data/UC_DOGMA_metadata.txt")
-FACS_prop = fread_n("Reproducibility/Data/UC_DOGMA_FACS_and_clinical_info.txt")
+metadata = fread_n("Reproducibility/Data/DOGMA/UC_DOGMA_metadata.txt")
+FACS_prop = fread_n("Reproducibility/Data/DOGMA/UC_DOGMA_FACS_and_clinical_info.txt")
 
 df_immune = dplyr::filter(metadata, lineage %in% c('B','CD4_T','CD8_T_NK_ILC','Myeloid'))
 df_non_immune = dplyr::filter(metadata, !lineage %in% c('B','CD4_T','CD8_T_NK_ILC','Myeloid'))
@@ -87,7 +87,7 @@ df_cor = cor(df_norm2 %>% as.matrix() %>% t() ,method='spearman')
 row.order = c('Epithelial', rownames(df_norm2[pheatmap_result$tree_row$order,]))
 clustered_data <- df_norm[row.order,]
 
-col_anno_df = fread_n("Reproducibility/Data/UC_DOGMA_FACS_and_clinical_info.txt") %>% as.data.frame() %>%
+col_anno_df = fread_n("Reproducibility/Data/DOGMA/UC_DOGMA_FACS_and_clinical_info.txt") %>% as.data.frame() %>%
               dplyr::select(., c("status","main_histology"))
 col_anno_df$status = factor(col_anno_df$status, levels = c("Early_L","Early_H","Early_UTUC","Advanced_BC","Advanced_UTUC","post_BCG"))
 col_anno_df$main_histology = factor(col_anno_df$main_histology,levels = c("UC","Small_cell","Inverted_papilloma","No_malignancy"))
@@ -177,7 +177,7 @@ plot_corrmatrix(df = df_ranknorm, col_list =Orange_Purple,
 ########################
 ## In house dataset
 ########################
-metadata = fread_n("Reproducibility/Data/UC_DOGMA_metadata.txt")
+metadata = fread_n("Reproducibility/Data/DOGMA/UC_DOGMA_metadata.txt")
 df_TNK = dplyr::filter(metadata, coarse_celltype %in% c('CD4_Tconv','Treg',"CD8_T",'NK_ILC')) %>%
          dplyr::filter(!celltype %in% c('CD4_T_proliferative','CD8_T_proliferative'))
 
@@ -201,7 +201,7 @@ plot_corrmatrix(df = df_ranknorm, col_list = Blue_Red,
 sig_df_1 = fread_n("Reproducibility/Results/VISIONR/UC_DOGMA_Malignant_signature_score_literature.txt")
 sig_df_2 = fread_n("Reproducibility/Results/VISIONR/UC_DOGMA_Malignant_signature_score_hotspot.txt")
 sig_df = cbind(sig_df_1,sig_df_2)
-metadata = fread_n("Reproducibility/Data/UC_DOGMA_metadata.txt") %>% dplyr::filter(., celltype %in% c("LUM",'NRP','SQM','MES','NEC'))
+metadata = fread_n("Reproducibility/Data/DOGMA/UC_DOGMA_metadata.txt") %>% dplyr::filter(., celltype %in% c("LUM",'NRP','SQM','MES','NEC'))
 metadata = metadata[rownames(sig_df),]
 
 sig_df_w_meta = cbind(sig_df, metadata) %>% dplyr::select(.,c(colnames(sig_df), 'sample', 'STAGE')) 
@@ -335,7 +335,7 @@ plot_tme_boxplots_3group(df = sig_df_norm, alt = 'greater', tmp_feature = "Parti
 #################################################
 TF_activity = fread_n("LINGER/Primary/Malignant/output/cell_population_TF_activity_zscore.txt")
 
-metadata = fread_n("Reproducibility/Data/UC_DOGMA_metadata.txt") %>% dplyr::filter(., celltype %in% c("LUM",'NRP','SQM','MES','NEC'))
+metadata = fread_n("Reproducibility/Data/DOGMA/UC_DOGMA_metadata.txt") %>% dplyr::filter(., celltype %in% c("LUM",'NRP','SQM','MES','NEC'))
 metadata = metadata[rownames(TF_activity),]
 
 TF_df_w_meta = cbind(TF_activity, metadata) %>% 
