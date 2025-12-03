@@ -44,7 +44,7 @@ set.seed(1234)
 data_dir="Reproducibility/Data"
 
 matrix_files = paste0(data_dir, '/matrix_files/TREKKER/GEX/')
-meta = fread_n(paste0(data_dir, "/UC_TREKKER_metadata.txt"))
+meta = fread_n(paste0(data_dir, "/TREKKER/UC_TREKKER_metadata.txt"))
 
 RNA_counts <- Read10X(data.dir = matrix_files)
 scRNA = CreateSeuratObject(counts = RNA_counts , assay = "RNA")
