@@ -46,7 +46,7 @@ set.seed(1234)
 #################################################
 # QC violinplot by coarse celltype
 #################################################
-metadata = fread_n("Reproducibility/Data/UC_DOGMA_metadata.txt")
+metadata = fread_n("Reproducibility/Data/DOGMA/UC_DOGMA_metadata.txt")
 metadata$coarse_celltype2 = fct_collapse(metadata$coarse_celltype,
     Epithelial = c('UC','NEC'),
     MSC = c('CAF','Pericyte')
