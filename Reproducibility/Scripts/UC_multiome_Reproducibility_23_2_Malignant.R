@@ -53,7 +53,7 @@ DOGMA = file.path(data_dir, "Seurat", paste0("UC_DOGMA_seurat_obj_", lineage, ".
 # Fig.2C  Module heatmap
 #################################################
 hs_df = fread_n("Reproducibility/Results/Hotspot/Malignant/UC_DOGMA_Malignant_module_scores.txt")
-metadata = fread_n("Reproducibility/Data/UC_DOGMA_metadata.txt") %>% dplyr::filter(., celltype %in% c("LUM",'NRP','SQM','MES','NEC'))
+metadata = fread_n("Reproducibility/Data/DOGMA/UC_DOGMA_metadata.txt") %>% dplyr::filter(., celltype %in% c("LUM",'NRP','SQM','MES','NEC'))
 
 hs_df_part = hs_df[,c("MP1","MP2","MP3","MP4","MP5")]
 colnames(hs_df_part) = c("LUM",'NRP',"SQM","MES","NEC")
@@ -207,7 +207,7 @@ dev.off()
 # Fig.S2F  Module usage by Origin
 #################################################
 hs_df = fread_n("Reproducibility/Results/Hotspot/Malignant/UC_DOGMA_Malignant_module_scores.txt")
-metadata = fread_n("Reproducibility/Data/UC_DOGMA_metadata.txt") %>% dplyr::filter(., celltype %in% c("LUM",'NRP','SQM','MES','NEC'))
+metadata = fread_n("Reproducibility/Data/DOGMA/UC_DOGMA_metadata.txt") %>% dplyr::filter(., celltype %in% c("LUM",'NRP','SQM','MES','NEC'))
 small_number_samples = c("BC_011","BC_012","BC_014","BC_030","BC_033","BC_042","BC_045")
 hs_use = c("MP6","MP7","MP8","MP9","MP10","MP11")
 
