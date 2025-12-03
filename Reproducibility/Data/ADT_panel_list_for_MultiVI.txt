@@ -1,0 +1,70 @@
+Global	Malignant	MSC	TNK	CD4_T	CD8_T_NK_ILC	Myeloid	B
+surface-A0034-CD3	surface-A0007-PDL1	surface-A0054-CD34	surface-A0034-CD3	surface-A0085-CD25	surface-A0034-CD3	surface-A0005-CD80	surface-A0006-CD86
+surface-A0048-CD45	surface-A0369-CD29	surface-A0026-CD47	surface-A0047-NCAM	surface-A0088-PD1	surface-A0046-CD8	surface-A0006-CD86	surface-A0026-CD47
+surface-A0047-NCAM	surface-A0371-CD49b	surface-A0058-HLAABC	surface-A0046-CD8	surface-A0089-TIGIT	surface-A0047-NCAM	surface-A0007-PDL1	surface-A0053-CD11c
+surface-A0046-CD8	surface-A0579-CD9	surface-A0061-ckit	surface-A0053-CD11c	surface-A0141-CCR5	surface-A0061-ckit	surface-A0008-PDL2	surface-A0058-HLAABC
+surface-A0050-CD19	surface-A0821-CD164	surface-A0062-CD10	surface-A0061-ckit	surface-A0145-ITGAE	surface-A0066-CD7	surface-A0052-CD33	surface-A0062-CD10
+surface-A0053-CD11c	surface-A0070-CD49f	surface-A0069-EPCR	surface-A0101-NKp46	surface-A0149-CD161	surface-A0101-NKp46	surface-A0053-CD11c	surface-A0100-CD20
+surface-A0054-CD34	surface-A0936-CD317	surface-A0127-Podoplanin	surface-A0149-CD161	surface-A0151-CTLA4	surface-A0145-ITGAE	surface-A0061-ckit	surface-A0124-CD31
+surface-A0060-Thy1	surface-A0822-CD142	surface-A0128-PDGFRa	surface-A0151-CTLA4	surface-A0153-KLRG1	surface-A0149-CD161	surface-A0064-CD123	surface-A0136-IgM
+surface-A0061-ckit	surface-A0407-CD36	surface-A0134-CD146	surface-A0382-CD177	surface-A0154-CD27	surface-A0151-CTLA4	surface-A0142-CD32	surface-A0142-CD32
+surface-A0063-CD45RA	surface-A0404-CD63	surface-A0163-Thrombomodulin	surface-A0592-NKAT2	surface-A0171-ICOS	surface-A0153-KLRG1	surface-A0145-ITGAE	surface-A0154-CD27
+surface-A0064-CD123	surface-A0058-HLAABC	surface-A0176-CD39	surface-A0867-CD94	surface-A0176-CD39	surface-A0159-HLADR	surface-A0159-HLADR	surface-A0159-HLADR
+surface-A0085-CD25	surface-A0061-ckit	surface-A0181-CD21	surface-A0072-CD4	surface-A0189-CD244	surface-A0168-CD57	surface-A0160-CD1c	surface-A0181-CD21
+surface-A0088-PD1	surface-A0383-CD55	surface-A0361-CD59		surface-A0355-41BB	surface-A0176-CD39	surface-A0161-CD11b	surface-A0374-CD98
+surface-A0101-NKp46	surface-A0594-CD133	surface-A0364-CD13		surface-A0371-CD49b	surface-A0371-CD49b	surface-A0162-CD64	surface-A0384-IgD
+surface-A0123-EpCAM	surface-A1018-HLADRDPDQ	surface-A0369-CD29		surface-A0382-CD177	surface-A0575-CD49a	surface-A0176-CD39	surface-A0389-CD38
+surface-A0124-CD31	surface-A0159-HLADR	surface-A0373-TAPA1		surface-A0389-CD38	surface-A0867-CD94	surface-A0189-CD244	surface-A0393-CD22
+surface-A0128-PDGFRa	surface-A0123-EpCAM	surface-A0383-CD55		surface-A0575-CD49a	surface-A1018-HLADRDPDQ	surface-A0352-FceRIa	surface-A0404-CD63
+surface-A0134-CD146	surface-A0127-Podoplanin	surface-A0404-CD63		surface-A0394-CD71	surface-A0394-CD71	surface-A0364-CD13	surface-A0579-CD9
+surface-A0132-EGFR	surface-A0023-CD155	surface-A0575-CD49a		surface-A0390-IL7Ra	surface-A0390-IL7Ra	surface-A0399-CD204	surface-A0590-LAIR1
+surface-A0136-IgM	surface-A0132-EGFR	surface-A0576-CD49d		surface-A0146-CD69	surface-A0146-CD69	surface-A0853-CLEC12A	surface-A0828-FcRL4
+surface-A0142-CD32	surface-A0392-SSEA1	surface-A0577-CD73		surface-A0214-ITGB7	surface-A0214-ITGB7	surface-A1018-HLADRDPDQ	surface-A1018-HLADRDPDQ
+surface-A0145-ITGAE	surface-A0430-LICAM	surface-A0590-LAIR1				surface-A0206-Siglec1	surface-A0394-CD71
+surface-A0149-CD161	surface-A0861-PETA3	surface-A0822-CD142				surface-A0408-SIRPa	surface-A0830-CRACC
+surface-A0151-CTLA4	surface-A0816-NGFR	surface-A0861-PETA3				surface-A0164-CD1d	
+surface-A0153-KLRG1	surface-A0134-CD146	surface-A0936-CD317				surface-A0167-CD35	
+surface-A0159-HLADR	surface-A0047-NCAM	surface-A0948-CD321					
+surface-A0160-CD1c	surface-A0394-CD71	surface-A0174-LFA3					
+surface-A0161-CD11b		surface-A0816-NGFR					
+surface-A0162-CD64		surface-A0594-CD133					
+surface-A0166-CD66b							
+surface-A0168-CD57							
+surface-A0171-ICOS							
+surface-A0176-CD39							
+surface-A0181-CD21							
+surface-A0185-CD11a							
+surface-A0189-CD244							
+surface-A0205-CD206							
+surface-A0215-BAFFR							
+surface-A0219-CD119							
+surface-A0352-FceRIa							
+surface-A0353-CD41							
+surface-A0355-41BB							
+surface-A0364-CD13							
+surface-A0366-CXCR4							
+surface-A0399-CD204							
+surface-A0402-CD1a							
+surface-A0404-CD63							
+surface-A0407-CD36							
+surface-A0419-CD72							
+surface-A0420-CD158							
+surface-A0586-TREM1							
+surface-A0592-NKAT2							
+surface-A0599-NKB1							
+surface-A0853-CLEC12A							
+surface-A0864-NTBA							
+surface-A0867-CD94							
+surface-A0868-IgE							
+surface-A0898-Iglightchainl							
+surface-A0931-CD131							
+surface-A0948-CD321							
+surface-A0206-Siglec1							
+surface-A0403-Langerin							
+surface-A0070-CD49f							
+surface-A0390-IL7Ra							
+surface-A0164-CD1d							
+surface-A0146-CD69							
+surface-A0167-CD35							
+surface-A0072-CD4							
+surface-A0133-HER2							
