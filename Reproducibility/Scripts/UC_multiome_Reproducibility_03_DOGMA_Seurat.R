@@ -101,7 +101,7 @@ build_seurat_object <- function(lineage, data_dir = "Reproducibility/Data") {
   DOGMA <- RunSVD(DOGMA)
   
   # Add ADT assay
-  adt_counts_all <- fread_n(file.path(data_dir, "UC_DOGMA_ADT_counts.txt")) %>% t() %>% as.matrix()
+  adt_counts_all <- fread_n(file.path(data_dir, 'DOGMA', "UC_DOGMA_ADT_counts.txt")) %>% t() %>% as.matrix()
   adt_counts <- adt_counts_all[, colnames(DOGMA), drop = FALSE]
   DOGMA[["ADT"]] <- CreateAssayObject(counts = adt_counts)
   DefaultAssay(DOGMA) <- "ADT"
