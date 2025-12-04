@@ -2168,58 +2168,6 @@ PathwayEnrichment_mm10 = function(gene_list = gene_name,
 }
 
 ######################################################
-################# PathwayEnrichment      #############
-######################################################
-
-Pathway_Enrichment_dhyper = function(OUTPUT = "cluster_enrichment",name = "NA" , target_list, full_gene_list = NA, pathway = "BioPlanet"){
- if(pathway == "IPA"){path_of_pathway = "~/reference_home/pathway/180530_pathway_gene_list_2.txt"}
- if(pathway == "BioPlanet"){path_of_pathway = "~/reference_home/BioPlanet/BioPlanet_geneset.txt"}
- PATHWAY_LIST=read.table(path_of_pathway,header=T,row.names=NULL,stringsAsFactors=F,sep="\t")
-
- if(is.na(full_gene_list[1])){full_gene_list = fread_FT("~/data_home/TCR100_iTreg100/data/220621_target_gene_full_list.txt") %>% pull(Gene)}
-
- FILTER_PATH=function(x){as.numeric_f(x[2])*as.numeric_f(x[3])!=0}
- DHYPER=function(x){1-phyper(as.numeric_f(x[2])-1, as.numeric_f(x[3]), as.numeric_f(x[4]), as.numeric_f(x[6]))}
- ODDS=function(x){as.numeric_f(x[2])*(as.numeric_f(x[3])+as.numeric_f(x[4])-as.numeric_f(x[6]))/(as.numeric_f(x[6])*(as.numeric_f(x[3])-as.numeric_f(x[2])))}
-
- pathway_gene_list = strsplit(PATHWAY_LIST$gene,",")
-
- RES=data.frame(PATHWAY=PATHWAY_LIST$pathway) %>%
-      mutate(intersect_target_PATH  = NA,
-             intersect_GENE_PATH =  NA,
-             setdiff_GENE_PATH = NA,
-             intersect_target_name = NA)
-
- for(kkk in 1:nrow(PATHWAY_LIST)){RES$intersect_target_PATH[kkk]=length(intersect(target_list,pathway_gene_list[[kkk]]))}
- for(kkk in 1:nrow(PATHWAY_LIST)){RES$intersect_GENE_PATH[kkk]=length(intersect(full_gene_list,pathway_gene_list[[kkk]]))}
- for(kkk in 1:nrow(PATHWAY_LIST)){RES$setdiff_GENE_PATH[kkk]=length(setdiff(full_gene_list,pathway_gene_list[[kkk]]))}
- for(kkk in 1:nrow(PATHWAY_LIST)){RES$intersect_target_name[kkk]=intersect(target_list,pathway_gene_list[[kkk]]) %>% paste0(.,collapse=",")}
- RES$num_target=length(target_list)
-
- RES_2=RES[apply(RES,1,FILTER_PATH),]
- RES_2$Pvalue_hyper=apply(RES_2,1,DHYPER)
- RES_2$logPvalue=round(-log10(RES_2$Pvalue_hyper),digit=3)
- RES_2$Qvalue_BH=p.adjust(RES_2$Pvalue_hyper, method = "BH")
- RES_2$ODDS=apply(RES_2,1,ODDS)
- RES_2$RATIO=round(RES_2$intersect_target_PATH/RES_2$intersect_GENE_PATH,digits=3)
- RES_3=RES_2[order(RES_2$Pvalue_hyper),]
- RES_3 = RES_3[,c("PATHWAY","intersect_target_PATH","intersect_GENE_PATH",
-                  "setdiff_GENE_PATH","num_target",
-                  "Pvalue_hyper","logPvalue","Qvalue_BH",
-                  "ODDS","RATIO","intersect_target_name")]
-
- if(pathway == "BioPlanet"){
-    corresp = fread_FT("~/reference_home/BioPlanet/BioPlanet_PATHWAY_ID_NAME.txt")
-    corresp_list = corresp$PATHWAY_NAME
-    names(corresp_list) = corresp$PATHWAY_ID
-    RES_3 = RES_3 %>% 
-             mutate(PATHWAY = PATHWAY %>% str_replace_all(corresp_list) )      }
-
- write.table_FT_2(RES_3,paste0(OUTPUT,"/full_res/",name,"_Pathway_enrichment_full.txt"))
- write.table_FT_2(RES_3[(RES_3$Qvalue_BH<0.05)&(RES_3$intersect_GENE_PATH>5),c(1,6:11)],paste0(OUTPUT,"/res_part/",name,"_Pathway_enrichment_filter.txt"))
- }
-
-######################################################
 ################# Get module score       #############
 ######################################################
 
