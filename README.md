@@ -6,7 +6,7 @@ This repository contains analysis code but does not host large data files.
 
 All data generated and analyzed in this study are publicly available through Zenodo, as described below:
 
-- Count matrices and ATAC fragment files, including gene expression matrices and MACS3-derived merged peak matrices, are available at:
+- ATAC fragments file and count matrices, including gene expression matrices and MACS3-derived merged peak matrices, are available at:
 https://zenodo.org/records/17797150
 
 - Processed data, including annotated AnnData (.h5ad) objects and cell-level metadata, are available at:
