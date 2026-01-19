@@ -44,7 +44,7 @@ set.seed(1234)
 data_dir="Reproducibility/Data"
 
 matrix_files = paste0(data_dir, '/matrix_files/TREKKER/GEX/')
-meta = fread_n(paste0(data_dir, "/TREKKER/UC_TREKKER_metadata.txt"))
+meta = fread_n(paste0(data_dir, "/UC_TREKKER_metadata.txt"))
 
 RNA_counts <- Read10X(data.dir = matrix_files)
 scRNA = CreateSeuratObject(counts = RNA_counts , assay = "RNA")
@@ -266,7 +266,7 @@ TF_activity = fread_n("Reproducibility/Results/LINGER/TREKKER/output/cell_popula
 TF_activity = TF_activity[colnames(scRNA),]
 
 plots <- list()
-modules = c('NFE2L2', 'HIF1A')
+modules = c('NFE2L2', 'HIF1A', 'SMAD3')
 
 for(tmp_module in modules){
   # Load necessary libraries
@@ -322,7 +322,7 @@ cols_with_plus <- grep("\\+/\\+", colnames(eRegulon_df), value = TRUE)
 
 # P02
 plots <- list()
-for(tmp_TF in c("NFE2L2_extended_+/+_(376g)")){
+for(tmp_TF in c('SMAD3_direct_+/+_(498g)', 'GATA3_extended_+/+_(436g)')){
     tmp_TF_core = paste0(take_factor(tmp_TF,1,"_"), '_', take_factor(tmp_TF,2,"_"))
     plot_df <- eRegulon_df %>%
       dplyr::mutate(celltype = eRegulon_meta$clone3) %>%
