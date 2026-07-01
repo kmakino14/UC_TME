@@ -36,7 +36,7 @@ Model-based re-prediction is not part of the main workflow. The downstream analy
 Run from the repository root:
 
 ```bash
-unzip UC_TME_processed_data.zip
+unzip TME_deconvolution.zip
 ```
 
 This should create the `data/` directory required by the workflow. If the archive extracts into a nested directory, move the extracted `data/` directory to the repository root before running the scripts.
