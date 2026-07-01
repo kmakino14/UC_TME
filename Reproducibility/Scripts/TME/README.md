@@ -1,4 +1,4 @@
-# UC multiome TME bulk projection
+# TME bulk projection
 
 This repository reproduces TCGA bulk RNA-seq TME projection analyses from archived Scaden prediction matrices.
 
