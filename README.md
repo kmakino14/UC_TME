@@ -10,7 +10,7 @@ All data generated and analyzed in this study are publicly available through Zen
 https://zenodo.org/records/18296313
 
 - Processed data, including annotated AnnData (.h5ad) objects and cell-level metadata, are available at:
-https://zenodo.org/records/17797205
+https://zenodo.org/records/21097409
 
 Raw sequencing data are subject to controlled access and are available through appropriate repositories in accordance with ethical approval and data-sharing agreements and are deposited at the Japanese Genotype-phenotype Archive (JGA) under accession number JGAS000860.
 
