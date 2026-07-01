@@ -13,7 +13,7 @@ https://zenodo.org/records/21097409
 Download and extract the following file from the Zenodo record:
 
 ```text
-UC_TME_processed_data.zip
+TME_deconvolution.zip
 ```
 
 After extraction, the repository should contain the following input directories:
