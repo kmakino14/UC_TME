@@ -56,8 +56,6 @@ Run from the repository root after preparing the `data/` directory:
 
 ```bash
 bash scripts/00_use_archived_inputs.sh
-
-conda activate R4_3
 bash scripts/01_run_TME_projection.sh
 bash scripts/02_run_TCGA_Cox.sh
 bash scripts/03_run_assignment_heatmap.sh
@@ -85,7 +83,7 @@ scripts/core/run_assignment_heatmap.sh
 ## Default output
 
 ```text
-/home/k-makino/wd_home/UC_DOGMA_reseq/Reproducibility/Results/TME
+Reproducibility/Results/TME
 ```
 
 The output structure is:
@@ -112,7 +110,3 @@ TME1, TME3, TME4, TME5, TME6
 ```
 
 The excluded category is documented here for interpretation only and is not included in output directory or file names.
-
-## Requirements
-
-The downstream R scripts were tested in the `R4_3` conda environment.
