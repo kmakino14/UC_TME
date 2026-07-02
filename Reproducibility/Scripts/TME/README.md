@@ -24,11 +24,14 @@ mkdir -p data/archived_inputs
 unzip TME_deconvolution.zip -d data/archived_inputs
 ```
 
-After extraction, the repository should contain:
+`data/` directory are required by the workflow. If the archive extracts into a nested directory, move the extracted `data/` directory to the repository root before running the scripts.
+The expected directory structure is:
 
 ```text
-data/archived_inputs/bulk/
-data/archived_inputs/predictions/
+data/
+└── archived_inputs/
+    ├── bulk/
+    └── predictions/
 ```
 
 The trained Scaden M256 model used to generate these matrices is included for transparency:
@@ -38,25 +41,6 @@ model/m256/
 ```
 
 Model-based re-prediction is not part of the main workflow. The downstream analyses are reproduced directly from the archived prediction matrices.
-
-## Preparing the archived input data
-
-Run from the repository root:
-
-```bash
-unzip TME_deconvolution.zip
-```
-
-This should create the `data/` directory required by the workflow. If the archive extracts into a nested directory, move the extracted `data/` directory to the repository root before running the scripts.
-
-The expected directory structure is:
-
-```text
-data/
-└── archived_inputs/
-    ├── bulk/
-    └── predictions/
-```
 
 ## Workflow
 
