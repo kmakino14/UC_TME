@@ -10,13 +10,21 @@ Please download `TME_deconvolution.zip` from the GitHub Release:
 
 `v1.0-tme-deconvolution`
 
-After downloading, extract the archive under:
+The archive contains the following two directories at its top level:
 
-```bash
-data/archived_inputs/
+```text
+bulk/
+predictions/
 ```
 
-The extracted directory should contain:
+After downloading the archive, extract it into data/archived_inputs/:
+
+```bash
+mkdir -p data/archived_inputs
+unzip TME_deconvolution.zip -d data/archived_inputs
+```
+
+After extraction, the repository should contain:
 
 ```text
 data/archived_inputs/bulk/
