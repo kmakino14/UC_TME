@@ -2,21 +2,21 @@
 
 This repository reproduces TCGA bulk RNA-seq TME projection analyses from archived Scaden prediction matrices.
 
-## Overview
+## Data availability
 
-Large input data files are not stored in this GitHub repository. To run the workflow, download the archived data from Zenodo:
+The archived input data for TME deconvolution are not stored directly in this Git repository.
 
-```text
-https://zenodo.org/records/21097409
+Please download `TME_deconvolution.zip` from the GitHub Release:
+
+`v1.0-tme-deconvolution`
+
+After downloading, extract the archive under:
+
+```bash
+data/archived_inputs/
 ```
 
-Download and extract the following file from the Zenodo record:
-
-```text
-TME_deconvolution.zip
-```
-
-After extraction, the repository should contain the following input directories:
+The extracted directory should contain:
 
 ```text
 data/archived_inputs/bulk/
